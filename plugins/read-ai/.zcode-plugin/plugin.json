@@ -1,0 +1,13 @@
+{
+  "name": "read-ai",
+  "version": "1.0.3",
+  "description": "Read AI brings your meeting intelligence directly into your AI workflows.",
+  "author": {
+    "name": "Read AI, Inc",
+    "url": "https://read.ai"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://read.ai"
+}

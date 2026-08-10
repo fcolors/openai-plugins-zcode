@@ -1,0 +1,13 @@
+{
+  "name": "fiscal-ai",
+  "version": "1.0.3",
+  "description": "Audit-ready financial data and equity research",
+  "author": {
+    "name": "Fiscal AI",
+    "url": "https://fiscal.ai"
+  },
+  "homepage": "https://fiscal.ai",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

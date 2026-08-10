@@ -1,0 +1,13 @@
+{
+  "name": "common-room",
+  "version": "1.0.3",
+  "description": "Embed complete buyer intelligence directly within Codex.",
+  "author": {
+    "name": "Common Room",
+    "url": "https://commonroom.io"
+  },
+  "homepage": "https://commonroom.io",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

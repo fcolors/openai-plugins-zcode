@@ -1,0 +1,20 @@
+{
+  "name": "daloopa",
+  "version": "1.0.3",
+  "description": "Financial analysis skills powered by Daloopa's institutional-grade data.",
+  "author": {
+    "name": "Daloopa",
+    "url": "https://daloopa.com"
+  },
+  "homepage": "https://daloopa.com",
+  "repository": "https://github.com/daloopa/daloopa-plugin-codex",
+  "license": "Apache-2.0",
+  "keywords": [
+    "finance",
+    "equity-research",
+    "earnings",
+    "valuation",
+    "daloopa"
+  ],
+  "skills": "./skills/"
+}

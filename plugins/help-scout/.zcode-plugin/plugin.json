@@ -1,0 +1,13 @@
+{
+  "name": "help-scout",
+  "version": "1.0.3",
+  "description": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
+  "author": {
+    "name": "OpenAI",
+    "url": "https://www.helpscout.com/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.helpscout.com/"
+}

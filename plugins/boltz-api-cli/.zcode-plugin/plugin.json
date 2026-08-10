@@ -1,0 +1,28 @@
+{
+  "name": "boltz-api-cli",
+  "version": "0.1.1",
+  "description": "Predict structures, screen molecules and proteins, and design binders.",
+  "author": {
+    "name": "Boltz",
+    "email": "support@boltz.bio",
+    "url": "https://boltz.bio"
+  },
+  "homepage": "https://boltz.bio",
+  "repository": "https://github.com/boltz-bio/boltz-api-skills",
+  "license": "MIT",
+  "keywords": [
+    "boltz",
+    "boltz-api",
+    "go-cli",
+    "computational-biology",
+    "protein-design",
+    "protein-screening",
+    "small-molecule-design",
+    "virtual-screening",
+    "structure-prediction",
+    "molecular-modeling",
+    "drug-discovery",
+    "biotech"
+  ],
+  "skills": "./skills"
+}

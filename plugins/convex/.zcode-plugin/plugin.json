@@ -1,0 +1,35 @@
+{
+  "name": "convex",
+  "version": "0.1.2",
+  "description": "Add a reactive, type-safe backend, database, server functions, and scaling guidance to JavaScript and TypeScript apps with Convex.",
+  "author": {
+    "name": "Convex, Inc.",
+    "email": "support@convex.dev",
+    "url": "https://www.convex.dev"
+  },
+  "homepage": "https://chatgpt.com/apps/convex/asdk_app_6a0faef988b48191b843bac5cd170a9e",
+  "repository": "https://github.com/get-convex/convex-codex-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "convex",
+    "backend",
+    "database",
+    "realtime",
+    "reactive",
+    "websocket",
+    "auth",
+    "storage",
+    "scheduler",
+    "cron",
+    "server functions",
+    "crud",
+    "full-stack",
+    "typescript",
+    "javascript",
+    "react",
+    "nextjs",
+    "expo",
+    "mobile",
+    "mcp"
+  ]
+}

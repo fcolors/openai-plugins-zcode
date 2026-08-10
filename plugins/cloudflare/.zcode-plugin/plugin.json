@@ -1,0 +1,27 @@
+{
+  "name": "cloudflare",
+  "version": "0.1.2",
+  "description": "Cloudflare platform plugin with curated skills for Workers, Wrangler, and Agents SDK plus the official Cloudflare API MCP server.",
+  "author": {
+    "name": "Cloudflare",
+    "url": "https://workers.cloudflare.com/"
+  },
+  "homepage": "https://workers.cloudflare.com/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "cloudflare",
+    "workflow",
+    "deployment",
+    "edge-functions",
+    "edge",
+    "analytics",
+    "wrangler",
+    "agents-sdk",
+    "serverless",
+    "ai-gateway"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "commands": "./commands/"
+}

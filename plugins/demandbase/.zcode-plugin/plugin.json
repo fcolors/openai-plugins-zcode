@@ -1,0 +1,13 @@
+{
+  "name": "demandbase",
+  "version": "1.0.3",
+  "description": "Demandbase integration with Codex gives sales, marketing, and GTM teams seamless access to rich B2B data...",
+  "author": {
+    "name": "Demandbase Inc",
+    "url": "https://www.demandbase.com"
+  },
+  "homepage": "https://www.demandbase.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

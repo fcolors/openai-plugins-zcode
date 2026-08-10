@@ -1,0 +1,13 @@
+{
+  "name": "myregistry-com",
+  "version": "1.0.3",
+  "description": "MyRegistry.com helps make gift-giving easy for friends & family to get you the gifts you really want!",
+  "author": {
+    "name": "MyRegistry.com",
+    "url": "https://www.myregistry.com/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.myregistry.com/"
+}

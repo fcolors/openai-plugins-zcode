@@ -1,0 +1,13 @@
+{
+  "name": "teamwork-com",
+  "version": "1.0.3",
+  "description": "Connect to sync Teamwork projects and tasks for use in Codex.",
+  "author": {
+    "name": "OpenAI",
+    "url": "https://www.teamwork.com/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.teamwork.com/"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "rox",
+  "version": "1.0.3",
+  "description": "Analyze sales data from Rox workspaces",
+  "author": {
+    "name": "Rox Data Corp",
+    "url": "https://www.rox.com"
+  },
+  "homepage": "https://www.rox.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "rox",
+    "sales",
+    "revenue",
+    "gtm",
+    "crm",
+    "account-intelligence",
+    "prospecting"
+  ]
+}

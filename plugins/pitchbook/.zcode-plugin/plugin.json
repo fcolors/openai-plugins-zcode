@@ -1,0 +1,13 @@
+{
+  "name": "pitchbook",
+  "version": "1.0.3",
+  "description": "PitchBook provides structured access to private capital market data across  companies, investors, funds, de...",
+  "author": {
+    "url": "https://www.pitchbook.com",
+    "name": "PitchBook"
+  },
+  "homepage": "https://www.pitchbook.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

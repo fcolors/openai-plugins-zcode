@@ -1,0 +1,21 @@
+{
+  "name": "catalyst-by-zoho",
+  "version": "1.0.1",
+  "description": "Extend Codex with Catalyst by Zoho's capabilities.",
+  "author": {
+    "name": "Catalyst by Zoho",
+    "email": "support@zohocatalyst.com",
+    "url": "https://catalyst.zoho.com/"
+  },
+  "homepage": "https://catalyst.zoho.com/",
+  "repository": "https://github.com/catalystbyzoho",
+  "license": "MIT",
+  "keywords": [
+    "zoho",
+    "catalyst",
+    "serverless",
+    "mcp",
+    "cloud"
+  ],
+  "skills": "./skills/"
+}

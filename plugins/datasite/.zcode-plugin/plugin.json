@@ -1,0 +1,14 @@
+{
+  "name": "datasite",
+  "version": "1.0.3",
+  "description": "Manage secure M&A data rooms",
+  "author": {
+    "name": "Datasite",
+    "url": "https://www.datasite.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "skills": "./skills/",
+  "homepage": "https://www.datasite.com"
+}

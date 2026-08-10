@@ -1,0 +1,20 @@
+{
+  "name": "hg-insights",
+  "version": "1.0.3",
+  "description": "Prospect data and revenue intelligence",
+  "author": {
+    "name": "HG Insights",
+    "url": "https://hginsights.com"
+  },
+  "homepage": "https://hginsights.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "hg-insights",
+    "revenue-growth-intelligence",
+    "gtm",
+    "technographics",
+    "buyer-intent",
+    "account-intelligence"
+  ]
+}

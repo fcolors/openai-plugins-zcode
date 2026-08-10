@@ -1,0 +1,13 @@
+{
+  "name": "setu-bharat-connect-billpay",
+  "version": "1.0.2",
+  "description": "This app helps you pay your utility bills through simple conversation.",
+  "author": {
+    "name": "Setu",
+    "url": "https://setu.co/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://setu.co/"
+}

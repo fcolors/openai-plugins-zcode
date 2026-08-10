@@ -1,0 +1,13 @@
+{
+  "name": "outreach",
+  "version": "1.0.2",
+  "description": "Revenue workflow automation with Outreach",
+  "author": {
+    "name": "Outreach",
+    "url": "https://www.outreach.io"
+  },
+  "homepage": "https://www.outreach.io",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

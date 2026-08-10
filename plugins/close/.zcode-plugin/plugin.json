@@ -1,0 +1,13 @@
+{
+  "name": "close",
+  "version": "1.0.3",
+  "description": "Reference and update Close CRM",
+  "author": {
+    "name": "Close",
+    "url": "https://www.close.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.close.com"
+}

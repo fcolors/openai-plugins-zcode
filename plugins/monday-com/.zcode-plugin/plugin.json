@@ -1,0 +1,13 @@
+{
+  "name": "monday-com",
+  "version": "1.0.2",
+  "description": "A powerful MCP connector enabling AI agents to seamlessly interact with monday.com.",
+  "author": {
+    "url": "https://monday.com",
+    "name": "Monday.com"
+  },
+  "homepage": "https://monday.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

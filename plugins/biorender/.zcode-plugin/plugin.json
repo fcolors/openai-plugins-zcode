@@ -1,0 +1,13 @@
+{
+  "name": "biorender",
+  "version": "1.0.2",
+  "description": "BioRender helps scientists create professional figures in minutes.",
+  "author": {
+    "url": "https://biorender.com/",
+    "name": "BioRender"
+  },
+  "homepage": "https://biorender.com/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

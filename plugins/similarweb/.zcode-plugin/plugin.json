@@ -1,0 +1,13 @@
+{
+  "name": "similarweb",
+  "version": "1.0.2",
+  "description": "Research web and app market intelligence",
+  "author": {
+    "name": "Similarweb",
+    "url": "https://www.similarweb.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.similarweb.com"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "quicknode",
+  "version": "1.0.3",
+  "description": "Manage your Quicknode infrastructure directly in OpenAI.",
+  "author": {
+    "name": "Quicknode",
+    "url": "https://www.quicknode.com/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.quicknode.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "intercom",
+  "version": "1.0.3",
+  "description": "Customer conversations, contacts, tickets, and support workflows from Intercom",
+  "author": {
+    "name": "Intercom",
+    "url": "https://www.intercom.com"
+  },
+  "homepage": "https://www.intercom.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cogedim",
+  "version": "1.0.3",
+  "description": "Cogedim is one of France's leading real estate developers.",
+  "author": {
+    "name": "ALTAREA PROMOTION MANAGEMENT",
+    "url": "https://www.cogedim.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.cogedim.com"
+}

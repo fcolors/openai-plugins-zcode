@@ -1,0 +1,13 @@
+{
+  "name": "cube",
+  "version": "1.0.3",
+  "description": "With the Cube MCP Server, you can: - Query live Cube data from actuals, budgets, forecasts, variances, and...",
+  "author": {
+    "name": "Cube",
+    "url": "https://www.cubesoftware.com/"
+  },
+  "homepage": "https://www.cubesoftware.com/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

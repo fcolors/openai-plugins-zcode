@@ -1,0 +1,13 @@
+{
+  "name": "channel99",
+  "version": "1.0.3",
+  "description": "Channel99 real time go to market intelligence connects Codex directly to Channel99’s performance marketin...",
+  "author": {
+    "name": "Channel99 Inc. ",
+    "url": "https://www.channel99.com/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.channel99.com/"
+}

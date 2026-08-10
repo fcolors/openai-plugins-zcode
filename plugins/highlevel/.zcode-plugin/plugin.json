@@ -1,0 +1,13 @@
+{
+  "name": "highlevel",
+  "version": "1.0.2",
+  "description": "HighLevel gives agencies a unified CRM, automation, and client communication platform.",
+  "author": {
+    "url": "https://www.gohighlevel.com",
+    "name": "HighLevel"
+  },
+  "homepage": "https://www.gohighlevel.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

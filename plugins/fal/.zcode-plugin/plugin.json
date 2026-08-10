@@ -1,0 +1,13 @@
+{
+  "name": "fal",
+  "version": "1.0.3",
+  "description": "Generate and manage media with Fal models",
+  "author": {
+    "name": "Fal",
+    "url": "https://fal.ai"
+  },
+  "homepage": "https://fal.ai",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meticulate",
+  "version": "1.0.2",
+  "description": "Research companies and similar targets",
+  "author": {
+    "name": "Meticulate"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

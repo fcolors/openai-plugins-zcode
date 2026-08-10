@@ -1,0 +1,13 @@
+{
+  "name": "marcopolo",
+  "version": "1.0.3",
+  "description": "MarcoPolo spins up a secure container where Codex can work with your actual data.",
+  "author": {
+    "name": "Immersa, Inc.",
+    "url": "https://marcopolo.dev"
+  },
+  "homepage": "https://marcopolo.dev",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

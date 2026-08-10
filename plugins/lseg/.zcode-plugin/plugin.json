@@ -1,0 +1,13 @@
+{
+  "name": "lseg",
+  "version": "1.0.2",
+  "description": "Financial market data and analytics",
+  "author": {
+    "name": "LSEG",
+    "url": "https://www.lseg.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.lseg.com"
+}

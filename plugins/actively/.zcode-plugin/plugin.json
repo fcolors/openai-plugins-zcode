@@ -1,0 +1,13 @@
+{
+  "name": "actively",
+  "version": "1.0.3",
+  "description": "Account agents for GTM intelligence",
+  "author": {
+    "name": "Actively",
+    "url": "https://www.actively.ai"
+  },
+  "homepage": "https://www.actively.ai",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

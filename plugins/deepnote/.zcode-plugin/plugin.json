@@ -1,0 +1,21 @@
+{
+  "name": "deepnote",
+  "version": "0.1.5",
+  "description": "Use Deepnote's collaborative data workspace to explore data, automate notebooks and SQL workflows, and turn analysis into shareable results.",
+  "author": {
+    "name": "Deepnote",
+    "url": "https://deepnote.com"
+  },
+  "homepage": "https://deepnote.com",
+  "repository": "https://github.com/openai/plugins/tree/main/plugins/deepnote",
+  "license": "Apache-2.0",
+  "keywords": [
+    "deepnote",
+    "chatgpt-app",
+    "openai",
+    "notebooks",
+    "data",
+    "analytics"
+  ],
+  "skills": "./skills/"
+}

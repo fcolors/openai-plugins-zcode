@@ -1,0 +1,13 @@
+{
+  "name": "apollo",
+  "version": "1.0.2",
+  "description": "Prospecting and outbound execution in Apollo",
+  "author": {
+    "name": "Apollo",
+    "url": "https://www.apollo.io"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.apollo.io"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "yepcode",
+  "version": "1.0.3",
+  "description": "YepCode lets you build custom AI tools using your own code with JSON Schema-defined inputs, executed in an...",
+  "author": {
+    "name": "YepCode S.L.",
+    "url": "https://yepcode.io/"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://yepcode.io/"
+}

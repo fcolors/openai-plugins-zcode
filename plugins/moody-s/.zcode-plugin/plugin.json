@@ -1,0 +1,35 @@
+{
+  "name": "moody-s",
+  "version": "1.0.2",
+  "description": "Credit ratings, entity intelligence, and research via Moody's GenAI-Ready Data.",
+  "author": {
+    "name": "Moody's",
+    "url": "https://www.moodys.com"
+  },
+  "homepage": "https://www.moodys.com/web/en/us/genai/model-context-protocol.html",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "moodys",
+    "credit",
+    "ratings",
+    "research",
+    "risk",
+    "entity-intelligence",
+    "ownership",
+    "beneficial-ownership",
+    "corporate-structure",
+    "subsidiaries",
+    "financial-statements",
+    "company-filings",
+    "credit-opinion",
+    "scorecards",
+    "esg",
+    "sector-outlook",
+    "country-risk",
+    "peers",
+    "earnings-calls",
+    "news"
+  ],
+  "skills": "./skills/"
+}

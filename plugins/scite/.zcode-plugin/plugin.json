@@ -1,0 +1,13 @@
+{
+  "name": "scite",
+  "version": "1.0.3",
+  "description": "Scite delivers answers grounded in peer-reviewed research you can verify.",
+  "author": {
+    "name": "Scite",
+    "url": "https://www.scite.ai"
+  },
+  "homepage": "https://www.scite.ai",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

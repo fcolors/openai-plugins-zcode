@@ -1,0 +1,18 @@
+{
+  "name": "glean",
+  "version": "1.0.0",
+  "description": "Access enterprise knowledge with Glean's remote MCP server.",
+  "author": {
+    "name": "Glean Technologies, Inc.",
+    "url": "https://glean.com"
+  },
+  "homepage": "https://glean.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "glean",
+    "enterprise-search",
+    "knowledge-management",
+    "mcp"
+  ]
+}

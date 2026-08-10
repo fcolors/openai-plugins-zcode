@@ -1,0 +1,13 @@
+{
+  "name": "quartr",
+  "version": "1.0.3",
+  "description": "Public company IR data and earnings research",
+  "author": {
+    "name": "Quartr",
+    "url": "https://quartr.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://quartr.com"
+}

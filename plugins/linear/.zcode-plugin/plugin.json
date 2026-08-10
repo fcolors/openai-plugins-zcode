@@ -1,0 +1,15 @@
+{
+  "name": "linear",
+  "version": "0.0.3",
+  "description": "Find and reference issues and projects.",
+  "author": {
+    "name": "OpenAI",
+    "url": "https://linear.app/"
+  },
+  "homepage": "https://linear.app/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

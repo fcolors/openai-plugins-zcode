@@ -1,0 +1,13 @@
+{
+  "name": "readwise",
+  "version": "1.0.3",
+  "description": "The official app for Readwise and Reader.",
+  "author": {
+    "name": "Readwise Inc.",
+    "url": "https://readwise.io"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://readwise.io"
+}

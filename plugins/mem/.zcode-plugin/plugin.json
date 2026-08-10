@@ -1,0 +1,13 @@
+{
+  "name": "mem",
+  "version": "1.0.2",
+  "description": "Give Codex the full context of your second brain by connecting your Mem knowledge base.",
+  "author": {
+    "name": "Mem Labs, Inc.",
+    "url": "https://mem.ai"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://mem.ai"
+}

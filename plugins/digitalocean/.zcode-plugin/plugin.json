@@ -1,0 +1,18 @@
+{
+  "name": "digitalocean",
+  "version": "0.2.2",
+  "description": "Provision a DigitalOcean droplet as a remote Codex workspace.",
+  "author": {
+    "name": "DigitalOcean",
+    "url": "https://github.com/digitalocean"
+  },
+  "homepage": "https://www.digitalocean.com/",
+  "repository": "https://github.com/digitalocean/CodexPlugin",
+  "keywords": [
+    "digitalocean",
+    "droplet",
+    "virtual-machine",
+    "remote-session"
+  ],
+  "skills": "./skills/"
+}

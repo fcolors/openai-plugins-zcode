@@ -1,0 +1,13 @@
+{
+  "name": "docket",
+  "version": "1.0.3",
+  "description": "Docket AI makes your sales knowledge your instant superpower.",
+  "author": {
+    "name": "Docket AI",
+    "url": "https://www.docket.io/"
+  },
+  "homepage": "https://www.docket.io/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

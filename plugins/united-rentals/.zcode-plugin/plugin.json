@@ -1,0 +1,13 @@
+{
+  "name": "united-rentals",
+  "version": "1.0.3",
+  "description": "Get the right equipment for the job without guesswork.",
+  "author": {
+    "name": "United Rentals",
+    "url": "https://www.unitedrentals.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.unitedrentals.com"
+}

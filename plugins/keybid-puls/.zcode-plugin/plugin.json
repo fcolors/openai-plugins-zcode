@@ -1,0 +1,13 @@
+{
+  "name": "keybid-puls",
+  "version": "1.0.3",
+  "description": "Unlock the profitability of short-term rental investments with our ROI Calculator app, tailored for platfor...",
+  "author": {
+    "name": "KeyBid",
+    "url": "https://keybid.eu"
+  },
+  "homepage": "https://keybid.eu",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "coupler-io",
+  "version": "1.0.2",
+  "description": "Analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Codex by co...",
+  "author": {
+    "url": "https://www.coupler.io/",
+    "name": "Coupler.io"
+  },
+  "homepage": "https://www.coupler.io/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

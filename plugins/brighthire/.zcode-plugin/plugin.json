@@ -1,0 +1,21 @@
+{
+  "name": "brighthire",
+  "version": "0.1.1",
+  "description": "Connect Codex to BrightHire interview intelligence data through the BrightHire app connector.",
+  "author": {
+    "name": "BrightHire",
+    "email": "support@brighthire.com",
+    "url": "https://www.brighthire.com"
+  },
+  "homepage": "https://www.brighthire.com",
+  "repository": "https://github.com/brighthire/brighthire-codex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "brighthire",
+    "interviews",
+    "hiring",
+    "recruiting",
+    "codex"
+  ],
+  "skills": "./skills/"
+}

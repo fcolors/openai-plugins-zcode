@@ -1,0 +1,13 @@
+{
+  "name": "docusign",
+  "version": "1.0.3",
+  "description": "Automate contract creation and insights",
+  "author": {
+    "name": "Docusign",
+    "url": "https://www.docusign.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.docusign.com"
+}

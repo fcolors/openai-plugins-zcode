@@ -1,0 +1,13 @@
+{
+  "name": "cloudinary",
+  "version": "1.0.2",
+  "description": "Manage, search, and transform your Cloudinary media library — directly from Codex.",
+  "author": {
+    "url": "https://cloudinary.com/",
+    "name": "Cloudinary"
+  },
+  "homepage": "https://cloudinary.com/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

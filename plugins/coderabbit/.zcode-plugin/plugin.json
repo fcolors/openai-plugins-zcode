@@ -1,0 +1,20 @@
+{
+  "name": "coderabbit",
+  "version": "1.1.4",
+  "description": "AI-powered code review in Codex, powered by CodeRabbit.",
+  "author": {
+    "name": "CodeRabbit AI",
+    "email": "support@coderabbit.ai",
+    "url": "https://coderabbit.ai"
+  },
+  "homepage": "https://docs.coderabbit.ai/cli/overview",
+  "repository": "https://github.com/coderabbitai/codex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "ai",
+    "coderabbit",
+    "codex"
+  ],
+  "skills": "./skills/"
+}

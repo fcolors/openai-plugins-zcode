@@ -1,0 +1,13 @@
+{
+  "name": "carta-crm",
+  "version": "1.0.3",
+  "description": "Carta CRM helps investment teams stay on top of deal flow by keeping deals, companies, and relationships in...",
+  "author": {
+    "name": "Carta Inc.",
+    "url": "https://carta.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://carta.com"
+}

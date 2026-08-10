@@ -1,0 +1,13 @@
+{
+  "name": "alation",
+  "version": "1.0.3",
+  "description": "Trusted enterprise data context and governance",
+  "author": {
+    "name": "Alation",
+    "url": "https://www.alation.com"
+  },
+  "homepage": "https://www.alation.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "temporal",
+  "version": "0.2.2",
+  "description": "Comprehensive skill for the entire Temporal lifecycle — developing applications, using the Temporal CLI, running and managing Temporal Server, and working with Temporal Cloud.",
+  "author": {
+    "name": "Temporal",
+    "url": "https://temporal.io/"
+  },
+  "homepage": "https://temporal.io/",
+  "repository": "https://github.com/temporalio/codex-temporal-plugin",
+  "license": "MIT",
+  "keywords": [
+    "temporal",
+    "workflow",
+    "durable-execution",
+    "python",
+    "typescript",
+    "go",
+    "java",
+    "microservices",
+    "distributed-systems"
+  ],
+  "skills": "./skills/"
+}

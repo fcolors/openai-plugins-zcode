@@ -1,0 +1,13 @@
+{
+  "name": "jam",
+  "version": "1.0.2",
+  "description": "Screen record with context",
+  "author": {
+    "name": "Jam",
+    "url": "https://jam.dev"
+  },
+  "homepage": "https://jam.dev",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

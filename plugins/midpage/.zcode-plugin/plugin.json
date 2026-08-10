@@ -1,0 +1,14 @@
+{
+  "name": "midpage",
+  "version": "1.0.3",
+  "description": "Legal research with cited case law",
+  "author": {
+    "name": "Midpage",
+    "url": "https://www.midpage.ai"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "skills": "./skills/",
+  "homepage": "https://www.midpage.ai"
+}

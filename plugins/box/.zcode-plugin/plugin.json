@@ -1,0 +1,14 @@
+{
+  "name": "box",
+  "version": "0.0.3",
+  "description": "Search and reference your documents",
+  "author": {
+    "name": "OpenAI",
+    "url": "https://www.box.com/home"
+  },
+  "homepage": "https://www.box.com/home",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "skills": "./skills/"
+}

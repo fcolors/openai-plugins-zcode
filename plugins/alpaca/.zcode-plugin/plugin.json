@@ -1,0 +1,13 @@
+{
+  "name": "alpaca",
+  "version": "1.0.2",
+  "description": "Stop watching the markets.",
+  "author": {
+    "url": "https://alpaca.markets/",
+    "name": "Alpaca"
+  },
+  "homepage": "https://alpaca.markets/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

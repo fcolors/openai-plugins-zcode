@@ -1,0 +1,30 @@
+{
+  "name": "zoom",
+  "version": "1.0.2",
+  "description": "Connect Codex to Zoom meeting context and build Zoom apps, bots, API integrations, SDK workflows, webhooks, and automations.",
+  "author": {
+    "name": "Zoom",
+    "url": "https://github.com/zoom"
+  },
+  "homepage": "https://developers.zoom.us/",
+  "repository": "https://github.com/zoom/zoom-plugin-codex",
+  "license": "MIT",
+  "keywords": [
+    "zoom",
+    "codex-plugin",
+    "connector",
+    "meetings",
+    "transcripts",
+    "recordings",
+    "docs",
+    "developers",
+    "rest-api",
+    "meeting-sdk",
+    "video-sdk",
+    "webhooks",
+    "oauth"
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "agents": "./agents/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "domotz-preview",
+  "version": "1.0.3",
+  "description": "Monitor and manage your network infrastructure through natural language.",
+  "author": {
+    "name": "Domotz",
+    "url": "https://www.domotz.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.domotz.com"
+}

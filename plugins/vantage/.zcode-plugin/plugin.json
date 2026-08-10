@@ -1,0 +1,13 @@
+{
+  "name": "vantage",
+  "version": "1.0.2",
+  "description": "Vantage is a cloud observability and optimization platform that aggregates cloud infrastructure costs acros...",
+  "author": {
+    "name": "Vantage",
+    "url": "https://www.vantage.sh"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.vantage.sh"
+}

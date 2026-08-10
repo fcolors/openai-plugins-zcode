@@ -1,0 +1,13 @@
+{
+  "name": "particl-market-research",
+  "version": "1.0.3",
+  "description": "Particl Market Research helps teams answer ecommerce research questions directly in Codex.",
+  "author": {
+    "name": "Particl",
+    "url": "https://www.particl.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.particl.com"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "morningstar",
+  "version": "1.0.3",
+  "description": "Morningstar fund research plugin for screening, summarizing, and comparing funds and ETFs using the Morningstar ChatGPT app.",
+  "author": {
+    "name": "Morningstar",
+    "url": "https://www.morningstar.com"
+  },
+  "homepage": "https://www.morningstar.com",
+  "repository": "https://github.com/Morningstar/morningstar-plugins",
+  "license": "MIT",
+  "keywords": [
+    "morningstar",
+    "funds",
+    "etf",
+    "research",
+    "screening"
+  ],
+  "skills": "./skills/"
+}

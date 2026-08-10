@@ -1,0 +1,21 @@
+{
+  "name": "shopify",
+  "version": "1.3.3",
+  "description": "Search Shopify docs, generate and validate GraphQL, Liquid, and UI extension code.",
+  "author": {
+    "name": "Shopify",
+    "url": "https://shopify.dev/"
+  },
+  "homepage": "https://github.com/Shopify/Shopify-AI-Toolkit",
+  "repository": "https://github.com/Shopify/Shopify-AI-Toolkit",
+  "license": "MIT",
+  "keywords": [
+    "shopify",
+    "mcp",
+    "graphql",
+    "liquid",
+    "storefront",
+    "admin-api"
+  ],
+  "skills": "./skills/"
+}

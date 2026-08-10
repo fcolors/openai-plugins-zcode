@@ -1,0 +1,13 @@
+{
+  "name": "shutterstock",
+  "version": "1.0.3",
+  "description": "Search stock media libraries",
+  "author": {
+    "name": "Shutterstock",
+    "url": "https://www.shutterstock.com"
+  },
+  "homepage": "https://www.shutterstock.com",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

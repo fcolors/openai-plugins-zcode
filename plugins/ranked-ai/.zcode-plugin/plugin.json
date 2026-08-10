@@ -1,0 +1,13 @@
+{
+  "name": "ranked-ai",
+  "version": "1.0.3",
+  "description": "Ranked AI provides industry leading AI SEO & PPC software, with a fully managed service integrated into it.",
+  "author": {
+    "name": "Ranked AI, LLC",
+    "url": "https://www.ranked.ai"
+  },
+  "homepage": "https://www.ranked.ai",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mt-newswires",
+  "version": "1.0.3",
+  "description": "MT Newswires brings real-time global financial news directly into Codex — providing original, unbiased an...",
+  "author": {
+    "name": "MT Newswires",
+    "url": "https://www.mtnewswires.com"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://www.mtnewswires.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mixpanel-headless",
+  "version": "0.1.2",
+  "description": "Analyze Mixpanel data with the mixpanel_headless Python SDK and Codex skills.",
+  "author": {
+    "name": "Mixpanel",
+    "url": "https://mixpanel.com/home"
+  },
+  "homepage": "https://mixpanel.github.io/mixpanel-headless/",
+  "repository": "https://github.com/mixpanel/mixpanel-headless",
+  "license": "MIT",
+  "keywords": [
+    "mixpanel",
+    "analytics",
+    "product-analytics",
+    "python",
+    "data-science",
+    "funnels",
+    "retention",
+    "flows",
+    "dashboards"
+  ],
+  "skills": "./skills/"
+}

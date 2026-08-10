@@ -1,0 +1,21 @@
+{
+  "name": "magicpath",
+  "version": "0.1.1",
+  "description": "Use MagicPath to find, inspect, install, create, and edit UI components from Codex.",
+  "author": {
+    "name": "MagicPathAI",
+    "url": "https://github.com/MagicPathAI"
+  },
+  "homepage": "https://github.com/MagicPathAI/agent-skills",
+  "repository": "https://github.com/MagicPathAI/agent-skills",
+  "license": "UNLICENSED",
+  "keywords": [
+    "magicpath",
+    "codex",
+    "ui-components",
+    "design",
+    "react",
+    "tailwind"
+  ],
+  "skills": "./skills/"
+}

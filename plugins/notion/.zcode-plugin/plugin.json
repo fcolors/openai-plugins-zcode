@@ -1,0 +1,24 @@
+{
+  "name": "notion",
+  "version": "0.1.5",
+  "description": "Notion workflows for implementation planning, research synthesis, meeting preparation, and knowledge capture.",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://www.notion.so/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "notion",
+    "documentation",
+    "research",
+    "meeting-prep",
+    "knowledge-management",
+    "planning"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "agents": "./agents/"
+}

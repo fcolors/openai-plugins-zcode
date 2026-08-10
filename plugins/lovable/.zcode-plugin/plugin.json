@@ -1,0 +1,13 @@
+{
+  "name": "lovable",
+  "version": "1.0.2",
+  "description": "Create full-stack web apps from prompts",
+  "author": {
+    "name": "Lovable",
+    "url": "https://lovable.dev"
+  },
+  "homepage": "https://lovable.dev",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

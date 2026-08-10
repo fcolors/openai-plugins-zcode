@@ -1,0 +1,13 @@
+{
+  "name": "hebbia",
+  "version": "1.0.3",
+  "description": "Institutional research and financial workflows",
+  "author": {
+    "name": "Hebbia",
+    "url": "https://www.hebbia.ai"
+  },
+  "homepage": "https://www.hebbia.ai",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

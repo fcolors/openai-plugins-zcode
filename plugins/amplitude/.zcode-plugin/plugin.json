@@ -1,0 +1,11 @@
+{
+  "name": "amplitude",
+  "version": "1.0.2",
+  "description": "Product analytics and funnels",
+  "author": {
+    "name": "Amplitude"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": []
+}

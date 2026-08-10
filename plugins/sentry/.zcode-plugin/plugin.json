@@ -1,0 +1,19 @@
+{
+  "name": "sentry",
+  "version": "0.1.2",
+  "description": "Inspect recent issues and events in Sentry from Codex.",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://sentry.io/",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "sentry",
+    "observability",
+    "triage"
+  ],
+  "skills": "./skills/"
+}

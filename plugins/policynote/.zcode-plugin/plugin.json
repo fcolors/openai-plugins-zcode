@@ -1,0 +1,13 @@
+{
+  "name": "policynote",
+  "version": "1.0.3",
+  "description": "Use the PolicyNote app to access structured policy and regulatory intelligence from around the world.",
+  "author": {
+    "name": "FiscalNote",
+    "url": "https://fiscalnote.com/products/policynote-api"
+  },
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://fiscalnote.com/products/policynote-api"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "hex",
+  "version": "0.1.0",
+  "description": "Hex workflows for searching projects and asking Hex Threads questions about workspace data.",
+  "author": {
+    "name": "OpenAI"
+  },
+  "homepage": "https://hex.tech/",
+  "repository": "https://github.com/openai/plugins/tree/main/plugins/hex",
+  "license": "Proprietary",
+  "keywords": [
+    "hex",
+    "data-analysis",
+    "analytics",
+    "threads",
+    "dashboards",
+    "notebooks"
+  ],
+  "skills": "./skills/"
+}

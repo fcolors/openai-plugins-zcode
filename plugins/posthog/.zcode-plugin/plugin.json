@@ -1,0 +1,26 @@
+{
+  "name": "posthog",
+  "version": "0.1.2",
+  "description": "Analyze product data and manage experiments",
+  "author": {
+    "name": "PostHog",
+    "url": "https://posthog.com"
+  },
+  "homepage": "https://posthog.com/docs",
+  "repository": "https://github.com/openai/plugins",
+  "license": "MIT",
+  "keywords": [
+    "posthog",
+    "analytics",
+    "product-analytics",
+    "feature-flags",
+    "experiments",
+    "error-tracking",
+    "session-replay",
+    "surveys",
+    "llm-analytics",
+    "hogql",
+    "developer-tools"
+  ],
+  "skills": "./skills/"
+}
