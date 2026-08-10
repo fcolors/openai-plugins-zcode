@@ -5,1259 +5,2159 @@
   "plugins": [
     {
       "name": "actively",
-      "source": "./actively",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/actively",
+        "ref": "main"
+      },
       "description": "Account agents for GTM intelligence",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/actively/assets/logo.png"
     },
     {
       "name": "aiera",
-      "source": "./aiera",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/aiera",
+        "ref": "main"
+      },
       "description": "Institutional financial data and events",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/aiera/assets/logo.png"
     },
     {
       "name": "airtable",
-      "source": "./airtable",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/airtable",
+        "ref": "main"
+      },
       "description": "Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It combines structured data with multiplayer visual surfaces (grid, kanban, calendar, gallery, timeline) humans and agents share — plus sync integrations to Jira, Salesforce, Zendesk, Google Drive, Databricks, and the rest of your stack, all backed by enterprise governance. This plugin makes Codex fluent in Airtable: creating bases and schema, working with records, and sharing UI for collaboration. Uses the Airtable app connector.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/airtable/assets/logo.png"
     },
     {
       "name": "alation",
-      "source": "./alation",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/alation",
+        "ref": "main"
+      },
       "description": "Trusted enterprise data context and governance",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/alation/assets/logo.png"
     },
     {
       "name": "alpaca",
-      "source": "./alpaca",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/alpaca",
+        "ref": "main"
+      },
       "description": "Stop watching the markets.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/alpaca/assets/app-icon.png"
     },
     {
       "name": "amplitude",
-      "source": "./amplitude",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/amplitude",
+        "ref": "main"
+      },
       "description": "Product analytics and funnels",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/amplitude/assets/app-icon.png"
     },
     {
       "name": "apollo",
-      "source": "./apollo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/apollo",
+        "ref": "main"
+      },
       "description": "Prospecting and outbound execution in Apollo",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/apollo/assets/logo.png"
     },
     {
       "name": "asana",
-      "source": "./asana",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/asana",
+        "ref": "main"
+      },
       "description": "Work with your Asana tasks, subtasks, comments, due dates, and project details to create summaries, understand priorities, and prepare clear status updates.",
       "version": "0.1.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/asana/assets/logo.png"
     },
     {
       "name": "atlassian-rovo",
-      "source": "./atlassian-rovo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/atlassian-rovo",
+        "ref": "main"
+      },
       "description": "Manage Jira and Confluence fast",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/atlassian-rovo/assets/logo.png"
     },
     {
       "name": "attio",
-      "source": "./attio",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/attio",
+        "ref": "main"
+      },
       "description": "Attio connects Codex directly to your CRM workspace, letting you manage customer relationships through na...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/attio/assets/logo.png"
     },
     {
       "name": "base44",
-      "source": "./base44",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/base44",
+        "ref": "main"
+      },
       "description": "Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills",
       "version": "1.0.3-beta.1",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/base44/assets/logo-padded.png"
     },
     {
       "name": "binance",
-      "source": "./binance",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/binance",
+        "ref": "main"
+      },
       "description": "Binance for Codex lets you access and explore Binance public, read-only market data using natural language.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/binance/assets/app-icon.png"
     },
     {
       "name": "biorender",
-      "source": "./biorender",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/biorender",
+        "ref": "main"
+      },
       "description": "BioRender helps scientists create professional figures in minutes.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/biorender/assets/app-icon.png"
     },
     {
       "name": "boltz-api-cli",
-      "source": "./boltz-api-cli",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/boltz-api-cli",
+        "ref": "main"
+      },
       "description": "Predict structures, screen molecules and proteins, and design binders.",
       "version": "0.1.1",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/boltz-api-cli/assets/app-icon.png"
     },
     {
       "name": "box",
-      "source": "./box",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/box",
+        "ref": "main"
+      },
       "description": "Search and reference your documents",
       "version": "0.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/box/assets/app-icon.png"
     },
     {
       "name": "brand24",
-      "source": "./brand24",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/brand24",
+        "ref": "main"
+      },
       "description": "The Brand24 app in Codex lets marketing and PR teams instantly explore brand mentions, sentiment, and med...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/brand24/assets/logo.png"
     },
     {
       "name": "brex",
-      "source": "./brex",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/brex",
+        "ref": "main"
+      },
       "description": "Connect Brex to Codex and review your company finances through natural conversation — at Codex speed.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/brex/assets/logo.png"
     },
     {
       "name": "brighthire",
-      "source": "./brighthire",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/brighthire",
+        "ref": "main"
+      },
       "description": "Connect Codex to BrightHire interview intelligence data through the BrightHire app connector.",
       "version": "0.1.1",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/brighthire/assets/logo.png"
     },
     {
       "name": "build-ios-apps",
-      "source": "./build-ios-apps",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/build-ios-apps",
+        "ref": "main"
+      },
       "description": "Build iOS apps with workflows for App Intents, SwiftUI UI work, Simulator mirroring in the Codex in-app browser, performance profiling, leak investigation, and simulator debugging.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/build-ios-apps/assets/app-icon.png"
     },
     {
       "name": "build-macos-apps",
-      "source": "./build-macos-apps",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/build-macos-apps",
+        "ref": "main"
+      },
       "description": "Build, run, test, debug, instrument, and implement local macOS apps using Xcode, SwiftUI, AppKit interop, unified logging, and shell-first desktop workflows.",
       "version": "0.1.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/build-macos-apps/assets/app-icon.png"
     },
     {
       "name": "build-web-apps",
-      "source": "./build-web-apps",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/build-web-apps",
+        "ref": "main"
+      },
       "description": "Build web apps with frontend asset design, browser testing, UI components, payments, and database guidance.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/build-web-apps/assets/app-icon.png"
     },
     {
       "name": "build-web-data-visualization",
-      "source": "./build-web-data-visualization",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/build-web-data-visualization",
+        "ref": "main"
+      },
       "description": "Design, critique, implement, test, and export web data visualizations in Codex, including charts, maps, dashboards, Gantt, UML, scrollytelling, reports, slides, mobile views, shareable state, and advanced WebGL concepts.",
       "version": "0.1.21",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/build-web-data-visualization/assets/app-icon.svg"
     },
     {
       "name": "calendly",
-      "source": "./calendly",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/calendly",
+        "ref": "main"
+      },
       "description": "Scheduling links, availability, and bookings",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/calendly/assets/app-icon.png"
     },
     {
       "name": "canva",
-      "source": "./canva",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/canva",
+        "ref": "main"
+      },
       "description": "Search, create, edit designs",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/canva/assets/app-icon.png"
     },
     {
       "name": "carta-crm",
-      "source": "./carta-crm",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/carta-crm",
+        "ref": "main"
+      },
       "description": "Carta CRM helps investment teams stay on top of deal flow by keeping deals, companies, and relationships in...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/carta-crm/assets/logo.png"
     },
     {
       "name": "catalyst-by-zoho",
-      "source": "./catalyst-by-zoho",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/catalyst-by-zoho",
+        "ref": "main"
+      },
       "description": "Extend Codex with Catalyst by Zoho's capabilities.",
       "version": "1.0.1",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/catalyst-by-zoho/assets/catalyst_logo.svg"
     },
     {
       "name": "cb-insights",
-      "source": "./cb-insights",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/cb-insights",
+        "ref": "main"
+      },
       "description": "Unleash Codex as your private markets research agent.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/cb-insights/assets/logo.png"
     },
     {
       "name": "channel99",
-      "source": "./channel99",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/channel99",
+        "ref": "main"
+      },
       "description": "Channel99 real time go to market intelligence connects Codex directly to Channel99’s performance marketin...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/channel99/assets/logo.png"
     },
     {
       "name": "chronograph-gp",
-      "source": "./chronograph-gp",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/chronograph-gp",
+        "ref": "main"
+      },
       "description": "Portfolio monitoring, valuations, and analytics for private capital GP teams",
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/chronograph-gp/assets/logo.png"
     },
     {
       "name": "chronograph-lp",
-      "source": "./chronograph-lp",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/chronograph-lp",
+        "ref": "main"
+      },
       "description": "Portfolio monitoring and analytics for private capital LP teams",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/chronograph-lp/assets/logo.png"
     },
     {
       "name": "circleback",
-      "source": "./circleback",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/circleback",
+        "ref": "main"
+      },
       "description": "Circleback helps teams get the most out of every conversation with AI-powered meeting notes, action items,...",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/circleback/assets/app-icon.png"
     },
     {
       "name": "circleci",
-      "source": "./circleci",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/circleci",
+        "ref": "main"
+      },
       "description": "Build, test, and deploy any application",
       "version": "1.0.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/circleci/assets/logo.png"
     },
     {
       "name": "clay",
-      "source": "./clay",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/clay",
+        "ref": "main"
+      },
       "description": "Find and engage prospects",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/clay/assets/app-icon.png"
     },
     {
       "name": "clickup",
-      "source": "./clickup",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/clickup",
+        "ref": "main"
+      },
       "description": "Turn Codex into your ClickUp command center.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/clickup/assets/logo.png"
     },
     {
       "name": "close",
-      "source": "./close",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/close",
+        "ref": "main"
+      },
       "description": "Reference and update Close CRM",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/close/assets/logo.png"
     },
     {
       "name": "cloudflare",
-      "source": "./cloudflare",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/cloudflare",
+        "ref": "main"
+      },
       "description": "Cloudflare platform plugin with curated skills for Workers, Wrangler, and Agents SDK plus the official Cloudflare API MCP server.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/cloudflare/assets/cloudflare.png"
     },
     {
       "name": "cloudinary",
-      "source": "./cloudinary",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/cloudinary",
+        "ref": "main"
+      },
       "description": "Manage, search, and transform your Cloudinary media library — directly from Codex.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/cloudinary/assets/app-icon.png"
     },
     {
       "name": "coderabbit",
-      "source": "./coderabbit",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/coderabbit",
+        "ref": "main"
+      },
       "description": "AI-powered code review in Codex, powered by CodeRabbit.",
       "version": "1.1.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/coderabbit/assets/logo.png"
     },
     {
       "name": "codex-security",
-      "source": "./codex-security",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/codex-security",
+        "ref": "main"
+      },
       "description": "Codex Security workflows for security scans, analysis, and investigation.",
       "version": "0.1.11",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/codex-security/assets/logo.png"
     },
     {
       "name": "cogedim",
-      "source": "./cogedim",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/cogedim",
+        "ref": "main"
+      },
       "description": "Cogedim is one of France's leading real estate developers.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/cogedim/assets/logo.png"
     },
     {
       "name": "common-room",
-      "source": "./common-room",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/common-room",
+        "ref": "main"
+      },
       "description": "Embed complete buyer intelligence directly within Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/common-room/assets/app-icon.png"
     },
     {
       "name": "conductor",
-      "source": "./conductor",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/conductor",
+        "ref": "main"
+      },
       "description": "The Conductor MCP server retrieves proprietary performance metrics regarding a brand's visibility, sentimen...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/conductor/assets/logo.png"
     },
     {
       "name": "convex",
-      "source": "./convex",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/convex",
+        "ref": "main"
+      },
       "description": "Add a reactive, type-safe backend, database, server functions, and scaling guidance to JavaScript and TypeScript apps with Convex.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/convex/assets/logo.png"
     },
     {
       "name": "coupler-io",
-      "source": "./coupler-io",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/coupler-io",
+        "ref": "main"
+      },
       "description": "Analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Codex by co...",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/coupler-io/assets/app-icon.png"
     },
     {
       "name": "coveo",
-      "source": "./coveo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/coveo",
+        "ref": "main"
+      },
       "description": "Search your enterprise content",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/coveo/assets/app-icon.png"
     },
     {
       "name": "cube",
-      "source": "./cube",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/cube",
+        "ref": "main"
+      },
       "description": "With the Cube MCP Server, you can: - Query live Cube data from actuals, budgets, forecasts, variances, and...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/cube/assets/logo.png"
     },
     {
       "name": "daloopa",
-      "source": "./daloopa",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/daloopa",
+        "ref": "main"
+      },
       "description": "Financial analysis skills powered by Daloopa's institutional-grade data.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/daloopa/assets/app-icon.png"
     },
     {
       "name": "datadog",
-      "source": "./datadog",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/datadog",
+        "ref": "main"
+      },
       "description": "Investigate Datadog telemetry and workflows from Codex",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/datadog/assets/app-icon.png"
     },
     {
       "name": "datasite",
-      "source": "./datasite",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/datasite",
+        "ref": "main"
+      },
       "description": "Manage secure M&A data rooms",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/datasite/assets/logo.png"
     },
     {
       "name": "deepnote",
-      "source": "./deepnote",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/deepnote",
+        "ref": "main"
+      },
       "description": "Use Deepnote's collaborative data workspace to explore data, automate notebooks and SQL workflows, and turn analysis into shareable results.",
       "version": "0.1.5",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/deepnote/assets/logo.png"
     },
     {
       "name": "demandbase",
-      "source": "./demandbase",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/demandbase",
+        "ref": "main"
+      },
       "description": "Demandbase integration with Codex gives sales, marketing, and GTM teams seamless access to rich B2B data...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/demandbase/assets/logo.png"
     },
     {
       "name": "digitalocean",
-      "source": "./digitalocean",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/digitalocean",
+        "ref": "main"
+      },
       "description": "Provision a DigitalOcean droplet as a remote Codex workspace.",
       "version": "0.2.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/digitalocean/assets/logo.png"
     },
     {
       "name": "dnb-finance-analytics",
-      "source": "./dnb-finance-analytics",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/dnb-finance-analytics",
+        "ref": "main"
+      },
       "description": "Commercial credit origination and risk workflows",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/dnb-finance-analytics/assets/app-icon.png"
     },
     {
       "name": "docket",
-      "source": "./docket",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/docket",
+        "ref": "main"
+      },
       "description": "Docket AI makes your sales knowledge your instant superpower.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/docket/assets/logo.png"
     },
     {
       "name": "docusign",
-      "source": "./docusign",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/docusign",
+        "ref": "main"
+      },
       "description": "Automate contract creation and insights",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/docusign/assets/logo.png"
     },
     {
       "name": "domotz-preview",
-      "source": "./domotz-preview",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/domotz-preview",
+        "ref": "main"
+      },
       "description": "Monitor and manage your network infrastructure through natural language.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/domotz-preview/assets/logo.png"
     },
     {
       "name": "dovetail",
-      "source": "./dovetail",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/dovetail",
+        "ref": "main"
+      },
       "description": "Connect Dovetail inside Codex to turn customer feedback into decisions without leaving your conversation.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/dovetail/assets/logo.png"
     },
     {
       "name": "dow-jones-factiva",
-      "source": "./dow-jones-factiva",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/dow-jones-factiva",
+        "ref": "main"
+      },
       "description": "The Factiva Connector, enables authorized users to search Factiva’s global news archive, including premium...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/dow-jones-factiva/assets/logo.png"
     },
     {
       "name": "egnyte",
-      "source": "./egnyte",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/egnyte",
+        "ref": "main"
+      },
       "description": "Work with documents and files stored in Egnyte directly from Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/egnyte/assets/logo.png"
     },
     {
       "name": "expo",
-      "source": "./expo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/expo",
+        "ref": "main"
+      },
       "description": "Official Expo skills for building, deploying, upgrading, and debugging Expo and React Native apps.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/expo/assets/expo.png"
     },
     {
       "name": "factset",
-      "source": "./factset",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/factset",
+        "ref": "main"
+      },
       "description": "Connect financial data, analytics, and workflows",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/factset/assets/logo.png"
     },
     {
       "name": "fal",
-      "source": "./fal",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/fal",
+        "ref": "main"
+      },
       "description": "Generate and manage media with Fal models",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/fal/assets/logo.png"
     },
     {
       "name": "figma",
-      "source": "./figma",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/figma",
+        "ref": "main"
+      },
       "description": "Figma workflows for design implementation, Code Connect templates, and design system rule generation.",
       "version": "2.0.13",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/figma/assets/logo-padded.png"
     },
     {
       "name": "finn",
-      "source": "./finn",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/finn",
+        "ref": "main"
+      },
       "description": "A FINN car subscription is a flexible way to stay mobile anytime - without long-term commitments like buyin...",
       "version": "1.0.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/finn/assets/logo.png"
     },
     {
       "name": "fireflies",
-      "source": "./fireflies",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/fireflies",
+        "ref": "main"
+      },
       "description": "The Fireflies app brings your meetings and knowledge directly into Codex.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/fireflies/assets/app-icon.png"
     },
     {
       "name": "fiscal-ai",
-      "source": "./fiscal-ai",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/fiscal-ai",
+        "ref": "main"
+      },
       "description": "Audit-ready financial data and equity research",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/fiscal-ai/assets/logo.png"
     },
     {
       "name": "fyxer",
-      "source": "./fyxer",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/fyxer",
+        "ref": "main"
+      },
       "description": "Fyxer for Codex lets you write emails that sound like you, right from the chat.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/fyxer/assets/app-icon.png"
     },
     {
       "name": "game-studio",
-      "source": "./game-studio",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/game-studio",
+        "ref": "main"
+      },
       "description": "Design, prototype, and ship browser games with guided 2D and 3D workflows, asset pipelines, and playtesting support.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/game-studio/assets/app-icon.png"
     },
     {
       "name": "github",
-      "source": "./github",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/github",
+        "ref": "main"
+      },
       "description": "Inspect repositories, triage pull requests and issues, debug CI, and publish changes through a hybrid GitHub connector and CLI workflow.",
       "version": "0.1.6",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/github/assets/logo.png"
     },
     {
       "name": "glean",
-      "source": "./glean",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/glean",
+        "ref": "main"
+      },
       "description": "Access enterprise knowledge with Glean's remote MCP server.",
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/glean/assets/logo.png"
     },
     {
       "name": "gmail",
-      "source": "./gmail",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/gmail",
+        "ref": "main"
+      },
       "description": "Work with Gmail using the configured Gmail app connector.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/gmail/assets/logo.png"
     },
     {
       "name": "google-calendar",
-      "source": "./google-calendar",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/google-calendar",
+        "ref": "main"
+      },
       "description": "Connect Google Calendar for scheduling, availability, daily briefs, and event management.",
       "version": "1.2.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/google-calendar/assets/logo.png"
     },
     {
       "name": "google-drive",
-      "source": "./google-drive",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/google-drive",
+        "ref": "main"
+      },
       "description": "Use Google Drive as the single entrypoint for Drive, Docs, Sheets, and Slides work.",
       "version": "0.1.7",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/google-drive/assets/logo.png"
     },
     {
       "name": "govtribe",
-      "source": "./govtribe",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/govtribe",
+        "ref": "main"
+      },
       "description": "Search government contracts, awards, and vendors directly from Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/govtribe/assets/logo.png"
     },
     {
       "name": "granola",
-      "source": "./granola",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/granola",
+        "ref": "main"
+      },
       "description": "Granola MCP connects your meeting history to Codex so your assistant can pull real context from past conv...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/granola/assets/logo.png"
     },
     {
       "name": "happenstance",
-      "source": "./happenstance",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/happenstance",
+        "ref": "main"
+      },
       "description": "Happenstance searches your professional network using natural language to find the right people.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/happenstance/assets/logo.png"
     },
     {
       "name": "hebbia",
-      "source": "./hebbia",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hebbia",
+        "ref": "main"
+      },
       "description": "Institutional research and financial workflows",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hebbia/assets/logo.png"
     },
     {
       "name": "help-scout",
-      "source": "./help-scout",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/help-scout",
+        "ref": "main"
+      },
       "description": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/help-scout/assets/logo.png"
     },
     {
       "name": "hex",
-      "source": "./hex",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hex",
+        "ref": "main"
+      },
       "description": "Hex workflows for searching projects and asking Hex Threads questions about workspace data.",
       "version": "0.1.0",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hex/assets/hex.png"
     },
     {
       "name": "heygen",
-      "source": "./heygen",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/heygen",
+        "ref": "main"
+      },
       "description": "Create HeyGen avatar videos and personalized video messages. Build a persistent digital identity from a description or hosted photo URL, then generate presenter-led videos with your digital twin.",
       "version": "2.2.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/heygen/assets/logo.png"
     },
     {
       "name": "hg-insights",
-      "source": "./hg-insights",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hg-insights",
+        "ref": "main"
+      },
       "description": "Prospect data and revenue intelligence",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hg-insights/assets/logo.png"
     },
     {
       "name": "highlevel",
-      "source": "./highlevel",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/highlevel",
+        "ref": "main"
+      },
       "description": "HighLevel gives agencies a unified CRM, automation, and client communication platform.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/highlevel/assets/app-icon.png"
     },
     {
       "name": "hostinger",
-      "source": "./hostinger",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hostinger",
+        "ref": "main"
+      },
       "description": "Hostinger Horizons lets you build real websites and apps just by describing what you want.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hostinger/assets/logo.png"
     },
     {
       "name": "hubspot",
-      "source": "./hubspot",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hubspot",
+        "ref": "main"
+      },
       "description": "Work with your HubSpot data to analyze patterns, create and update records, and manage your CRM operations.",
       "version": "2.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hubspot/assets/logo.png"
     },
     {
       "name": "hugging-face",
-      "source": "./hugging-face",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hugging-face",
+        "ref": "main"
+      },
       "description": "Inspect models, datasets, Spaces, and research",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hugging-face/assets/logo.png"
     },
     {
       "name": "hyperframes",
-      "source": "./hyperframes",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/hyperframes",
+        "ref": "main"
+      },
       "description": "Write HTML, render video. Compositions, GSAP animations, captions, voiceovers, audio-reactive visuals, and website-to-video capture for HyperFrames.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/hyperframes/assets/logo.png"
     },
     {
       "name": "intercom",
-      "source": "./intercom",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/intercom",
+        "ref": "main"
+      },
       "description": "Customer conversations, contacts, tickets, and support workflows from Intercom",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/intercom/assets/logo.png"
     },
     {
       "name": "jam",
-      "source": "./jam",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/jam",
+        "ref": "main"
+      },
       "description": "Screen record with context",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/jam/assets/app-icon.png"
     },
     {
       "name": "keybid-puls",
-      "source": "./keybid-puls",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/keybid-puls",
+        "ref": "main"
+      },
       "description": "Unlock the profitability of short-term rental investments with our ROI Calculator app, tailored for platfor...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/keybid-puls/assets/logo.png"
     },
     {
       "name": "life-science-research",
-      "source": "./life-science-research",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/life-science-research",
+        "ref": "main"
+      },
       "description": "General life-sciences research workflows with query routing, evidence synthesis, and optional parallel subagent analysis across genetics, omics, biology, chemistry, structure, clinical evidence, and public dataset discovery.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/life-science-research/assets/app-icon.png"
     },
     {
       "name": "linear",
-      "source": "./linear",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/linear",
+        "ref": "main"
+      },
       "description": "Find and reference issues and projects.",
       "version": "0.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/linear/assets/app-icon.png"
     },
     {
       "name": "lovable",
-      "source": "./lovable",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/lovable",
+        "ref": "main"
+      },
       "description": "Create full-stack web apps from prompts",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/lovable/assets/logo.png"
     },
     {
       "name": "lseg",
-      "source": "./lseg",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/lseg",
+        "ref": "main"
+      },
       "description": "Financial market data and analytics",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/lseg/assets/logo.png"
     },
     {
       "name": "magicpath",
-      "source": "./magicpath",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/magicpath",
+        "ref": "main"
+      },
       "description": "Use MagicPath to find, inspect, install, create, and edit UI components from Codex.",
       "version": "0.1.1",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/magicpath/assets/magicpath.png"
     },
     {
       "name": "marcopolo",
-      "source": "./marcopolo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/marcopolo",
+        "ref": "main"
+      },
       "description": "MarcoPolo spins up a secure container where Codex can work with your actual data.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/marcopolo/assets/app-icon.png"
     },
     {
       "name": "mem",
-      "source": "./mem",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/mem",
+        "ref": "main"
+      },
       "description": "Give Codex the full context of your second brain by connecting your Mem knowledge base.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/mem/assets/app-icon.png"
     },
     {
       "name": "meticulate",
-      "source": "./meticulate",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/meticulate",
+        "ref": "main"
+      },
       "description": "Research companies and similar targets",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/meticulate/assets/logo.png"
     },
     {
       "name": "midpage",
-      "source": "./midpage",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/midpage",
+        "ref": "main"
+      },
       "description": "Legal research with cited case law",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/midpage/assets/logo.png"
     },
     {
       "name": "mixpanel",
-      "source": "./mixpanel",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/mixpanel",
+        "ref": "main"
+      },
       "description": "Query and analyze Mixpanel",
       "version": "2.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/mixpanel/assets/logo.png"
     },
     {
       "name": "mixpanel-headless",
-      "source": "./mixpanel-headless",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/mixpanel-headless",
+        "ref": "main"
+      },
       "description": "Analyze Mixpanel data with the mixpanel_headless Python SDK and Codex skills.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/mixpanel-headless/assets/logo.png"
     },
     {
       "name": "monday-com",
-      "source": "./monday-com",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/monday-com",
+        "ref": "main"
+      },
       "description": "A powerful MCP connector enabling AI agents to seamlessly interact with monday.com.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/monday-com/assets/app-icon.png"
     },
     {
       "name": "moody-s",
-      "source": "./moody-s",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/moody-s",
+        "ref": "main"
+      },
       "description": "Credit ratings, entity intelligence, and research via Moody's GenAI-Ready Data.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/moody-s/assets/app-icon.png"
     },
     {
       "name": "morningstar",
-      "source": "./morningstar",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/morningstar",
+        "ref": "main"
+      },
       "description": "Morningstar fund research plugin for screening, summarizing, and comparing funds and ETFs using the Morningstar ChatGPT app.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/morningstar/assets/app-icon.png"
     },
     {
       "name": "motherduck",
-      "source": "./motherduck",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/motherduck",
+        "ref": "main"
+      },
       "description": "Connect AI assistants to your MotherDuck data warehouse.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/motherduck/assets/app-icon.png"
     },
     {
       "name": "mt-newswires",
-      "source": "./mt-newswires",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/mt-newswires",
+        "ref": "main"
+      },
       "description": "MT Newswires brings real-time global financial news directly into Codex — providing original, unbiased an...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/mt-newswires/assets/logo.png"
     },
     {
       "name": "myregistry-com",
-      "source": "./myregistry-com",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/myregistry-com",
+        "ref": "main"
+      },
       "description": "MyRegistry.com helps make gift-giving easy for friends & family to get you the gifts you really want!",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/myregistry-com/assets/logo.png"
     },
     {
       "name": "neon-postgres",
-      "source": "./neon-postgres",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/neon-postgres",
+        "ref": "main"
+      },
       "description": "Manage Neon Serverless Postgres projects and databases with the neon-postgres agent skill and the Neon MCP Server",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/neon-postgres/assets/logo.png"
     },
     {
       "name": "netlify",
-      "source": "./netlify",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/netlify",
+        "ref": "main"
+      },
       "description": "Deploy projects and manage preview or production releases on Netlify.",
       "version": "1.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/netlify/assets/app-icon.png"
     },
     {
       "name": "network-solutions",
-      "source": "./network-solutions",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/network-solutions",
+        "ref": "main"
+      },
       "description": "The Network Solutions Domain Search Assistant makes finding an available domain fast, simple, and conversat...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/network-solutions/assets/app-icon.png"
     },
     {
       "name": "ngs-analysis",
-      "source": "./ngs-analysis",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/ngs-analysis",
+        "ref": "main"
+      },
       "description": "Guided NGS intake, local execution, and public-pipeline routing for BCL, FASTQ, DNA variant, RNA-seq, single-cell, epigenomics, amplicon, and metagenomics analyses, with deeper decision skills for high-risk assay branches.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/ngs-analysis/assets/app-icon.png"
     },
     {
       "name": "notion",
-      "source": "./notion",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/notion",
+        "ref": "main"
+      },
       "description": "Notion workflows for implementation planning, research synthesis, meeting preparation, and knowledge capture.",
       "version": "0.1.5",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/notion/assets/notion.png"
     },
     {
       "name": "nvidia",
-      "source": "./nvidia",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/nvidia",
+        "ref": "main"
+      },
       "description": "Skills for NVIDIAs ecosystem spans GPU acceleration, CUDA, AI agents, inference, robotics, Physical AI, Omniverse, and simulation. This plugin helps you understand the pieces, choose a path, validate your setup, and build practical NVIDIA-powered workflows.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/nvidia/assets/nvidia.png"
     },
     {
       "name": "omni-analytics",
-      "source": "./omni-analytics",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/omni-analytics",
+        "ref": "main"
+      },
       "description": "Query Omni using the same semantic model, permissions, and logic defined by your data team directly from Codex.",
       "version": "1.0.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/omni-analytics/assets/logo.png"
     },
     {
       "name": "openai-ads-conversions",
-      "source": "./openai-ads-conversions",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/openai-ads-conversions",
+        "ref": "main"
+      },
       "description": "Set up OpenAI Ads Measurement Pixel and optional Conversions API instrumentation.",
       "version": "0.1.0"
     },
     {
       "name": "openai-developers",
-      "source": "./openai-developers",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/openai-developers",
+        "ref": "main"
+      },
       "description": "Build with OpenAI APIs, Agents SDK, and ChatGPT Apps, and create and save OpenAI API keys from Codex.",
       "version": "1.2.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/openai-developers/assets/logo.png"
     },
     {
       "name": "otter-ai",
-      "source": "./otter-ai",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/otter-ai",
+        "ref": "main"
+      },
       "description": "The Otter.ai MCP server connects Codex to your meeting intelligence, enabling search and retrieval of transcripts, summaries, action items, and meeting metadata directly within your workflow.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/otter-ai/assets/logo.png"
     },
     {
       "name": "outlook-calendar",
-      "source": "./outlook-calendar",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/outlook-calendar",
+        "ref": "main"
+      },
       "description": "Connect Outlook Calendar for scheduling, daily briefs, event prep, and safe meeting changes.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/outlook-calendar/assets/logo.png"
     },
     {
       "name": "outlook-email",
-      "source": "./outlook-email",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/outlook-email",
+        "ref": "main"
+      },
       "description": "Work with Outlook Email using the configured Microsoft Outlook app connector.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/outlook-email/assets/logo.png"
     },
     {
       "name": "outreach",
-      "source": "./outreach",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/outreach",
+        "ref": "main"
+      },
       "description": "Revenue workflow automation with Outreach",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/outreach/assets/logo.png"
     },
     {
       "name": "particl-market-research",
-      "source": "./particl-market-research",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/particl-market-research",
+        "ref": "main"
+      },
       "description": "Particl Market Research helps teams answer ecommerce research questions directly in Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/particl-market-research/assets/logo.png"
     },
     {
       "name": "picsart",
-      "source": "./picsart",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/picsart",
+        "ref": "main"
+      },
       "description": "Generate videos, images, and audio",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/picsart/assets/logo.png"
     },
     {
       "name": "pipedrive",
-      "source": "./pipedrive",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/pipedrive",
+        "ref": "main"
+      },
       "description": "Connect to sync Pipedrive deals and contacts for use in Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/pipedrive/assets/logo.png"
     },
     {
       "name": "pitchbook",
-      "source": "./pitchbook",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/pitchbook",
+        "ref": "main"
+      },
       "description": "PitchBook provides structured access to private capital market data across  companies, investors, funds, de...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/pitchbook/assets/logo.png"
     },
     {
       "name": "plugin-eval",
-      "source": "./plugin-eval",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/plugin-eval",
+        "ref": "main"
+      },
       "description": "Evaluate Codex skills and plugins from chat with a beginner-friendly start command, local-first reports, token budget explanations, and guided benchmarking.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/plugin-eval/assets/plugin-eval.svg"
     },
     {
       "name": "policynote",
-      "source": "./policynote",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/policynote",
+        "ref": "main"
+      },
       "description": "Use the PolicyNote app to access structured policy and regulatory intelligence from around the world.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/policynote/assets/logo.png"
     },
     {
       "name": "posthog",
-      "source": "./posthog",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/posthog",
+        "ref": "main"
+      },
       "description": "Analyze product data and manage experiments",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/posthog/assets/logo.png"
     },
     {
       "name": "pylon",
-      "source": "./pylon",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/pylon",
+        "ref": "main"
+      },
       "description": "Access Pylon's customer support platform directly from Codex to search, manage, and resolve customer issues.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/pylon/assets/logo.png"
     },
     {
       "name": "quartr",
-      "source": "./quartr",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/quartr",
+        "ref": "main"
+      },
       "description": "Public company IR data and earnings research",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/quartr/assets/logo.png"
     },
     {
       "name": "quickbooks",
-      "source": "./quickbooks",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/quickbooks",
+        "ref": "main"
+      },
       "description": "Analyze finances and manage QuickBooks records",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/quickbooks/assets/logo.png"
     },
     {
       "name": "quicknode",
-      "source": "./quicknode",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/quicknode",
+        "ref": "main"
+      },
       "description": "Manage your Quicknode infrastructure directly in OpenAI.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/quicknode/assets/logo.png"
     },
     {
       "name": "ranked-ai",
-      "source": "./ranked-ai",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/ranked-ai",
+        "ref": "main"
+      },
       "description": "Ranked AI provides industry leading AI SEO & PPC software, with a fully managed service integrated into it.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/ranked-ai/assets/logo.png"
     },
     {
       "name": "razorpay",
-      "source": "./razorpay",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/razorpay",
+        "ref": "main"
+      },
       "description": "Connect your Razorpay account to access your payment data through conversation.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/razorpay/assets/logo.png"
     },
     {
       "name": "read-ai",
-      "source": "./read-ai",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/read-ai",
+        "ref": "main"
+      },
       "description": "Read AI brings your meeting intelligence directly into your AI workflows.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/read-ai/assets/logo.png"
     },
     {
       "name": "readwise",
-      "source": "./readwise",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/readwise",
+        "ref": "main"
+      },
       "description": "The official app for Readwise and Reader.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/readwise/assets/logo.png"
     },
     {
       "name": "remotion",
-      "source": "./remotion",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/remotion",
+        "ref": "main"
+      },
       "description": "Remotion video creation skills — best practices, animations, audio, captions, 3D, and more for building programmatic videos with React.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/remotion/assets/logo.png"
     },
     {
       "name": "render",
-      "source": "./render",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/render",
+        "ref": "main"
+      },
       "description": "Skills for deploying, debugging, monitoring, and migrating apps on Render.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/render/assets/logo.svg"
     },
     {
       "name": "replayio",
-      "source": "./replayio",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/replayio",
+        "ref": "main"
+      },
       "description": "Record browser sessions with the Replay Browser through the host agent browser, analyze recordings through Replay MCP tools or Replay QA, and upload pending recordings when the turn ends.",
       "version": "0.1.0",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/replayio/assets/replayio.svg"
     },
     {
       "name": "replit",
-      "source": "./replit",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/replit",
+        "ref": "main"
+      },
       "description": "Create and iterate Replit web apps",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/replit/assets/logo.png"
     },
     {
       "name": "responsive",
-      "source": "./responsive",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/responsive",
+        "ref": "main"
+      },
       "description": "The Responsive App makes it easy to work with your organization’s data inside Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/responsive/assets/logo.png"
     },
     {
       "name": "rox",
-      "source": "./rox",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/rox",
+        "ref": "main"
+      },
       "description": "Analyze sales data from Rox workspaces",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/rox/assets/app-icon.png"
     },
     {
       "name": "s-p",
-      "source": "./s-p",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/s-p",
+        "ref": "main"
+      },
       "description": "Query S&P Global financial datasets",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/s-p/assets/logo.png"
     },
     {
       "name": "scite",
-      "source": "./scite",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/scite",
+        "ref": "main"
+      },
       "description": "Scite delivers answers grounded in peer-reviewed research you can verify.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/scite/assets/logo.png"
     },
     {
       "name": "semrush",
-      "source": "./semrush",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/semrush",
+        "ref": "main"
+      },
       "description": "The Semrush MCP provides structured, quantitative SEO and traffic data for domains, keywords, backlinks, an...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/semrush/assets/logo.png"
     },
     {
       "name": "sendgrid",
-      "source": "./sendgrid",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/sendgrid",
+        "ref": "main"
+      },
       "description": "Connector for interacting with the SendGrid email API.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/sendgrid/assets/app-icon.png"
     },
     {
       "name": "sentry",
-      "source": "./sentry",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/sentry",
+        "ref": "main"
+      },
       "description": "Inspect recent issues and events in Sentry from Codex.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/sentry/assets/sentry.png"
     },
     {
       "name": "setu-bharat-connect-billpay",
-      "source": "./setu-bharat-connect-billpay",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/setu-bharat-connect-billpay",
+        "ref": "main"
+      },
       "description": "This app helps you pay your utility bills through simple conversation.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/setu-bharat-connect-billpay/assets/app-icon.png"
     },
     {
       "name": "sharepoint",
-      "source": "./sharepoint",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/sharepoint",
+        "ref": "main"
+      },
       "description": "Work with SharePoint using the configured Microsoft SharePoint app connector.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/sharepoint/assets/logo.png"
     },
     {
       "name": "shopify",
-      "source": "./shopify",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/shopify",
+        "ref": "main"
+      },
       "description": "Search Shopify docs, generate and validate GraphQL, Liquid, and UI extension code.",
       "version": "1.3.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/shopify/assets/logo-padded.svg"
     },
     {
       "name": "shutterstock",
-      "source": "./shutterstock",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/shutterstock",
+        "ref": "main"
+      },
       "description": "Search stock media libraries",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/shutterstock/assets/logo.png"
     },
     {
       "name": "signnow",
-      "source": "./signnow",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/signnow",
+        "ref": "main"
+      },
       "description": "Get documents signed faster without switching between tools.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/signnow/assets/logo.png"
     },
     {
       "name": "similarweb",
-      "source": "./similarweb",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/similarweb",
+        "ref": "main"
+      },
       "description": "Research web and app market intelligence",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/similarweb/assets/logo.png"
     },
     {
       "name": "skywatch",
-      "source": "./skywatch",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/skywatch",
+        "ref": "main"
+      },
       "description": "Search and explore satellite imagery from top providers including Vantor, Planet, Airbus, and more, all in...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/skywatch/assets/logo.png"
     },
     {
       "name": "slack",
-      "source": "./slack",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/slack",
+        "ref": "main"
+      },
       "description": "Work with Slack using the configured Slack integration.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/slack/assets/app-icon.png"
     },
     {
       "name": "statsig",
-      "source": "./statsig",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/statsig",
+        "ref": "main"
+      },
       "description": "Bring your Statsig workspace into Codex.",
       "version": "2.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/statsig/assets/logo.png"
     },
     {
       "name": "streak",
-      "source": "./streak",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/streak",
+        "ref": "main"
+      },
       "description": "Streak is a CRM built directly into Gmail, so you can track deals, contacts, and workflows from your inbox.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/streak/assets/app-icon.png"
     },
     {
       "name": "stripe",
-      "source": "./stripe",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/stripe",
+        "ref": "main"
+      },
       "description": "Payments and business tools",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/stripe/assets/app-icon.png"
     },
     {
       "name": "supabase",
-      "source": "./supabase",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/supabase",
+        "ref": "main"
+      },
       "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data.",
       "version": "0.1.10",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/supabase/assets/logo.png"
     },
     {
       "name": "superhuman",
-      "source": "./superhuman",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/superhuman",
+        "ref": "main"
+      },
       "description": "Connect Codex to the official Superhuman Mail MCP server for email and calendar workflows.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/superhuman/assets/superhuman-mail.svg"
     },
     {
       "name": "superpowers",
-      "source": "./superpowers",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/superpowers",
+        "ref": "main"
+      },
       "description": "An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.",
       "version": "5.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/superpowers/assets/superpowers-small.svg"
     },
     {
       "name": "taxdown",
-      "source": "./taxdown",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/taxdown",
+        "ref": "main"
+      },
       "description": "TaxDown te ayuda a resolver dudas fiscales en España, tanto para particulares como autónomos: deducciones,...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/taxdown/assets/logo.png"
     },
     {
       "name": "teams",
-      "source": "./teams",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/teams",
+        "ref": "main"
+      },
       "description": "Work with Teams using the configured Microsoft Teams app connector.",
       "version": "0.1.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/teams/assets/logo.png"
     },
     {
       "name": "teamwork-com",
-      "source": "./teamwork-com",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/teamwork-com",
+        "ref": "main"
+      },
       "description": "Connect to sync Teamwork projects and tasks for use in Codex.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/teamwork-com/assets/logo.png"
     },
     {
       "name": "temporal",
-      "source": "./temporal",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/temporal",
+        "ref": "main"
+      },
       "description": "Comprehensive skill for the entire Temporal lifecycle — developing applications, using the Temporal CLI, running and managing Temporal Server, and working with Temporal Cloud.",
       "version": "0.2.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/temporal/assets/temporal-logo.svg"
     },
     {
       "name": "test-android-apps",
-      "source": "./test-android-apps",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/test-android-apps",
+        "ref": "main"
+      },
       "description": "Test Android apps with emulator workflows for reproduction, screenshots, UI inspection, log capture, and performance profiling.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/test-android-apps/assets/app-icon.png"
     },
     {
       "name": "third-bridge",
-      "source": "./third-bridge",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/third-bridge",
+        "ref": "main"
+      },
       "description": "Seamlessly incorporate critical context and trusted insights from industry experts as part of your financia...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/third-bridge/assets/logo.png"
     },
     {
       "name": "thoughtspot",
-      "source": "./thoughtspot",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/thoughtspot",
+        "ref": "main"
+      },
       "description": "Trusted business data answers",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/thoughtspot/assets/logo.png"
     },
     {
       "name": "tinman-ai",
-      "source": "./tinman-ai",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/tinman-ai",
+        "ref": "main"
+      },
       "description": "Tinman AI helps loan officers and underwriters quickly underwrite home financing scenarios and answer compl...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/tinman-ai/assets/logo.png"
     },
     {
       "name": "twilio-developer-kit",
-      "source": "./twilio-developer-kit",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/twilio-developer-kit",
+        "ref": "main"
+      },
       "description": "Twilio Skills provide procedural knowledge for AI coding agents — which APIs to use, in what order, and what to avoid. Covers Messaging, Voice, Verify, SendGrid, and 30+ products.",
       "version": "0.2.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/twilio-developer-kit/assets/logo.svg"
     },
     {
       "name": "united-rentals",
-      "source": "./united-rentals",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/united-rentals",
+        "ref": "main"
+      },
       "description": "Get the right equipment for the job without guesswork.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/united-rentals/assets/logo.png"
     },
     {
       "name": "vantage",
-      "source": "./vantage",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/vantage",
+        "ref": "main"
+      },
       "description": "Vantage is a cloud observability and optimization platform that aggregates cloud infrastructure costs acros...",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/vantage/assets/app-icon.png"
     },
     {
       "name": "vercel",
-      "source": "./vercel",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/vercel",
+        "ref": "main"
+      },
       "description": "Build and deploy web apps and agents",
       "version": "0.21.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/vercel/assets/logo-padded.png"
     },
     {
       "name": "waldo",
-      "source": "./waldo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/waldo",
+        "ref": "main"
+      },
       "description": "Waldo is an AI-powered strategy platform for agencies and brands.",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/waldo/assets/logo.png"
     },
     {
       "name": "weatherpromise",
-      "source": "./weatherpromise",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/weatherpromise",
+        "ref": "main"
+      },
       "description": "Protect your trip with WeatherPromise and get back the full cost if it rains more than promised during your...",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/weatherpromise/assets/app-icon.png"
     },
     {
       "name": "windsor-ai",
-      "source": "./windsor-ai",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/windsor-ai",
+        "ref": "main"
+      },
       "description": "Windsor.ai connects your marketing and business data sources to Codex so you can ask questions in natural...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/windsor-ai/assets/logo.png"
     },
     {
       "name": "wix",
-      "source": "./wix",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/wix",
+        "ref": "main"
+      },
       "description": "Build and deploy Wix apps and headless websites, and manage your Wix business. Includes CLI development skills, Wix Headless for any frontend framework, and Wix MCP server for eCommerce, CMS, dashboard extensions, and more.",
       "version": "1.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/wix/assets/logo.svg"
     },
     {
       "name": "yepcode",
-      "source": "./yepcode",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/yepcode",
+        "ref": "main"
+      },
       "description": "YepCode lets you build custom AI tools using your own code with JSON Schema-defined inputs, executed in an...",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/yepcode/assets/logo.png"
     },
     {
       "name": "zoho",
-      "source": "./zoho",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/zoho",
+        "ref": "main"
+      },
       "description": "Manage Zoho CRM sales workflows",
       "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/zoho/assets/logo.png"
     },
     {
       "name": "zoom",
-      "source": "./zoom",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/zoom",
+        "ref": "main"
+      },
       "description": "Connect Codex to Zoom meeting context and build Zoom apps, bots, API integrations, SDK workflows, webhooks, and automations.",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/zoom/assets/app-icon.svg"
     },
     {
       "name": "zoominfo",
-      "source": "./zoominfo",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/zoominfo",
+        "ref": "main"
+      },
       "description": "Prospecting and account research with ZoomInfo",
       "version": "1.0.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/zoominfo/assets/logo.png"
     },
     {
       "name": "zotero",
-      "source": "./zotero",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/zotero",
+        "ref": "main"
+      },
       "description": "Work with Zotero from Codex: search your library, export BibTeX, insert citations, and import references through the Zotero desktop app.",
       "version": "0.1.2",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/zotero/assets/icon.png"

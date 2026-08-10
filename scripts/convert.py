@@ -4,9 +4,10 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGINS_DIR = ROOT / "plugins"
+GITHUB_REPOSITORY = "fcolors/openai-plugins-zcode"
 REPOSITORY_RAW_URL = (
     "https://raw.githubusercontent.com/"
-    "fcolors/openai-plugins-zcode/main"
+    f"{GITHUB_REPOSITORY}/main"
 )
 
 # ZCode 当前支持的 plugin.json 字段
@@ -128,7 +129,14 @@ for plugin_dir in sorted(PLUGINS_DIR.iterdir()):
 
     entry = {
         "name": zcode_manifest["name"],
-        "source": f"./{plugin_dir.name}",
+        # Use an explicit GitHub subdirectory source. Some ZCode releases can
+        # list pluginRoot-relative strings but reject them during installation.
+        "source": {
+            "source": "github",
+            "repo": GITHUB_REPOSITORY,
+            "path": f"plugins/{plugin_dir.name}",
+            "ref": "main",
+        },
     }
 
     for key in ("description", "version"):
