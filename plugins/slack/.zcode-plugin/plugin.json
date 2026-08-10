@@ -15,5 +15,26 @@
     "chat",
     "collaboration"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Slack",
+    "shortDescription": "Read and manage Slack",
+    "longDescription": "Use Slack to summarize channels, draft messages, and organize team conversations through the connected Slack integration.",
+    "developerName": "OpenAI",
+    "category": "Communication",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://slack.com/",
+    "privacyPolicyURL": "https://slack.com/privacy-policy",
+    "termsOfServiceURL": "https://slack.com/terms-of-service/user",
+    "defaultPrompt": [
+      "Summarize unread activity, draft replies, or prepare updates"
+    ],
+    "brandColor": "#611F69",
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-icon.png",
+    "screenshots": []
+  }
 }

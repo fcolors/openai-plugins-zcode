@@ -9,5 +9,22 @@
   "repository": "https://github.com/openai/plugins",
   "license": "MIT",
   "keywords": [],
+  "interface": {
+    "displayName": "Help Scout",
+    "shortDescription": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
+    "longDescription": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
+    "developerName": "OpenAI",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Summarize the Help Scout thread and next actions"
+    ],
+    "screenshots": [],
+    "websiteURL": "https://www.helpscout.com/",
+    "privacyPolicyURL": "https://www.helpscout.com/privacy/",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png"
+  },
   "homepage": "https://www.helpscout.com/"
 }

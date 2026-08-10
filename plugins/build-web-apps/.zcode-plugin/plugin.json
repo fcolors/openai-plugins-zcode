@@ -25,5 +25,27 @@
     "frontend-qa"
   ],
   "skills": "./skills/",
+  "interface": {
+    "displayName": "Build Web Apps",
+    "shortDescription": "Build frontend-focused web apps with generated assets, browser testing, payments, and databases",
+    "longDescription": "Use Build Web Apps to create frontend application surfaces with Codex-generated visual assets, verify them with the Browser plugin and built-in app browser, compose shadcn/ui, wire Stripe payments, and design or tune Supabase/Postgres data flows.",
+    "developerName": "OpenAI",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://openai.com/",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": [
+      "Design a new landing page for my new SaaS product."
+    ],
+    "brandColor": "#111111",
+    "composerIcon": "./assets/build-web-apps-small.svg",
+    "logo": "./assets/app-icon.png",
+    "screenshots": []
+  },
   "agents": "./agents/"
 }

@@ -41,5 +41,29 @@
     "content"
   ],
   "skills": "./skills/",
+  "interface": {
+    "displayName": "Airtable",
+    "shortDescription": "Database and operations layer for your agents.",
+    "longDescription": "Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It combines structured data with multiplayer visual surfaces (grid, kanban, calendar, gallery, timeline) humans and agents share — plus sync integrations to Jira, Salesforce, Zendesk, Google Drive, Databricks, and the rest of your stack, all backed by enterprise governance. This plugin makes Codex fluent in your Airtable bases: creating bases and schema, working with records, and sharing UI for collaboration. Uses the Airtable app connector.",
+    "developerName": "Airtable",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://www.airtable.com",
+    "privacyPolicyURL": "https://www.airtable.com/privacy",
+    "termsOfServiceURL": "https://www.airtable.com/company/tos",
+    "defaultPrompt": [
+      "Set up a system to manage my team's operations.",
+      "Track my product roadmap, feedback, and releases.",
+      "I need a simple database for my project."
+    ],
+    "brandColor": "#18BFFF",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png",
+    "screenshots": []
+  },
   "agents": "./agents/"
 }

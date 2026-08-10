@@ -17,5 +17,28 @@
     "mcp",
     "cloud"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Catalyst by Zoho",
+    "shortDescription": "Use Catalyst by Zoho capabilities in Codex.",
+    "longDescription": "Catalyst by Zoho plugin extends Codex with MCP-backed workflows and skills for building, managing, and operating Catalyst projects.",
+    "developerName": "Catalyst by Zoho",
+    "category": "Developer Tools",
+    "capabilities": [
+      "MCP",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://catalyst.zoho.com/",
+    "privacyPolicyURL": "https://www.zoho.com/privacy.html",
+    "termsOfServiceURL": "https://www.zoho.com/terms.html",
+    "brandColor": "#226DB4",
+    "composerIcon": "./assets/catalyst_logo.svg",
+    "logo": "./assets/catalyst_logo.svg",
+    "defaultPrompt": [
+      "Help me work with Catalyst by Zoho.",
+      "Show me available Catalyst by Zoho capabilities.",
+      "Guide my Catalyst project setup."
+    ]
+  }
 }

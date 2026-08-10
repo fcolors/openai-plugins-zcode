@@ -17,5 +17,25 @@
     "crm",
     "account-intelligence",
     "prospecting"
-  ]
+  ],
+  "interface": {
+    "displayName": "Rox",
+    "shortDescription": "Analyze sales data from Rox workspaces",
+    "longDescription": "Rox helps users find and analyze authenticated sales data from their Rox workspace, including accounts, deals, contacts, notes, emails, meetings, documents, org charts, and Slack activity. The app exposes a guided data interface: users can discover available data functions, inspect each function's schema and workflow guidance, then invoke read-only functions to answer sales and account intelligence questions.",
+    "developerName": "Rox Data Corp",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://www.rox.com",
+    "privacyPolicyURL": "https://www.rox.com/privacy-policy",
+    "termsOfServiceURL": "https://www.rox.com/terms-and-conditions",
+    "brandColor": "#101010",
+    "defaultPrompt": [
+      "Find Rox account insights for this customer and summarize recommended next actions.",
+      "Use Rox to identify high-priority accounts with recent buying signals.",
+      "Draft a follow-up plan from Rox account activity and meeting context."
+    ],
+    "screenshots": [],
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-icon.png"
+  }
 }

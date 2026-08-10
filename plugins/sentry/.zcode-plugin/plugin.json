@@ -15,5 +15,26 @@
     "observability",
     "triage"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sentry",
+    "shortDescription": "Inspect recent Sentry issues and events",
+    "longDescription": "Use Sentry skills to inspect recent issues, review events, and summarize production errors with a read-only workflow.",
+    "developerName": "OpenAI",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://sentry.io/",
+    "privacyPolicyURL": "https://sentry.io/privacy/",
+    "termsOfServiceURL": "https://sentry.io/terms/",
+    "defaultPrompt": [
+      "Inspect recent Sentry issues and summarize the top production errors"
+    ],
+    "composerIcon": "./assets/sentry-small.svg",
+    "logo": "./assets/sentry.png",
+    "screenshots": [],
+    "brandColor": "#362D59"
+  }
 }

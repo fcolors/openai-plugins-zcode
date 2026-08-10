@@ -16,5 +16,27 @@
     "coderabbit",
     "codex"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CodeRabbit",
+    "shortDescription": "Run AI-powered code review for your current changes",
+    "longDescription": "Run CodeRabbit review workflows in Codex to inspect diffs, surface actionable findings, and turn review output into follow-up fixes.",
+    "developerName": "CodeRabbit",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://coderabbit.ai",
+    "privacyPolicyURL": "https://www.coderabbit.ai/privacy-policy",
+    "termsOfServiceURL": "https://www.coderabbit.ai/terms-of-service",
+    "brandColor": "#FF570A",
+    "composerIcon": "./assets/coderabbit-small.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png",
+    "defaultPrompt": [
+      "Review my current changes and provide feedback"
+    ],
+    "screenshots": []
+  }
 }

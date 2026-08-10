@@ -15,5 +15,26 @@
     "email",
     "google"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Gmail",
+    "shortDescription": "Read and manage Gmail",
+    "longDescription": "Use Gmail to summarize inbox activity, draft replies, and organize email threads through the connected Gmail app.",
+    "developerName": "OpenAI",
+    "category": "Communication",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://workspace.google.com/products/gmail/",
+    "privacyPolicyURL": "https://policies.google.com/privacy",
+    "termsOfServiceURL": "https://policies.google.com/terms",
+    "defaultPrompt": [
+      "Summarize inbox, draft replies, or process email threads"
+    ],
+    "brandColor": "#EA4335",
+    "composerIcon": "./assets/gmail-small.svg",
+    "logo": "./assets/logo.png",
+    "screenshots": []
+  }
 }

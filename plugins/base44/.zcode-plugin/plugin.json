@@ -20,5 +20,26 @@
     "javascript",
     "typescript"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Base44",
+    "shortDescription": "Build and deploy Base44 full-stack apps from Codex",
+    "longDescription": "Build and deploy Base44 full-stack apps with Codex. Includes CLI project management, JavaScript/TypeScript SDK development, and production troubleshooting skills.",
+    "developerName": "base44",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://base44.com",
+    "defaultPrompt": [
+      "Create a new Base44 app and deploy it.",
+      "Build a feature in my existing Base44 app.",
+      "Debug errors from my Base44 backend functions."
+    ],
+    "composerIcon": "./assets/logo-padded.png",
+    "logo": "./assets/logo-padded.png",
+    "screenshots": []
+  }
 }

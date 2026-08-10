@@ -52,5 +52,29 @@
     "geopolitical"
   ],
   "skills": "./skills/",
+  "interface": {
+    "displayName": "Build Web Data Visualization",
+    "shortDescription": "Design, build, test, and export web data visualizations",
+    "longDescription": "Use Build Web Data Visualization to choose, design, implement, test, and export browser charts, dashboards, maps, WebGL/Three.js scenes, Canvas/D3 visuals, Gantt charts, UML/software diagrams, scrollytelling, reports, PDFs, and slide decks. It emphasizes source-backed data, accessible responsive layouts, URL-shareable analysis state, and concept-first design for advanced visual stories.",
+    "developerName": "OpenAI",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://openai.com/",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": [
+      "Visually design this advanced visualization with large-screen and mobile concepts",
+      "Choose the best chart, layout, shareable state, grammar, and stack for this dataset",
+      "Design QA for this chart, dashboard, map, or WebGL visualization"
+    ],
+    "brandColor": "#0B7285",
+    "composerIcon": "./assets/data-visualization-small.svg",
+    "logo": "./assets/app-icon.svg",
+    "screenshots": []
+  },
   "agents": "./agents/"
 }

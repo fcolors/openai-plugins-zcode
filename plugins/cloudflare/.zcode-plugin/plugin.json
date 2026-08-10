@@ -23,5 +23,26 @@
   ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Cloudflare",
+    "shortDescription": "Cloudflare platform guidance with official MCP",
+    "longDescription": "Bring Cloudflare platform guidance into Codex with curated skills for the broader platform, Wrangler CLI, and the Agents SDK, plus the official Cloudflare API MCP server for authenticated access to live account data and workflows across Workers, Pages, storage, AI, networking, security, and analytics services.",
+    "developerName": "Cloudflare",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://workers.cloudflare.com/",
+    "privacyPolicyURL": "https://www.cloudflare.com/privacypolicy/",
+    "termsOfServiceURL": "https://www.cloudflare.com/website-terms/",
+    "defaultPrompt": [
+      "Help me choose the right Cloudflare product, configure Wrangler, and use Cloudflare MCP to inspect or deploy this project"
+    ],
+    "composerIcon": "./assets/cloudflare-small.svg",
+    "logo": "./assets/cloudflare.png",
+    "screenshots": [],
+    "brandColor": "#F48120"
+  },
   "commands": "./commands/"
 }

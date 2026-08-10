@@ -17,5 +17,25 @@
     "lead-enrichment",
     "contacts",
     "accounts"
-  ]
+  ],
+  "interface": {
+    "displayName": "Clay",
+    "shortDescription": "Find and engage prospects",
+    "longDescription": "Find and engage prospects",
+    "developerName": "Clay",
+    "category": "Business & Operations",
+    "capabilities": [],
+    "websiteURL": "https://www.clay.com",
+    "privacyPolicyURL": "https://privacy.clay.com/",
+    "termsOfServiceURL": "https://www.clay.com/terms-of-service",
+    "brandColor": "#38D8F8",
+    "defaultPrompt": [
+      "Find Clay records matching this ICP and summarize the strongest prospect accounts.",
+      "Enrich these leads in Clay with company, role, and outreach context.",
+      "Build a Clay prospecting list for this segment and identify useful signals."
+    ],
+    "screenshots": [],
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-icon.png"
+  }
 }

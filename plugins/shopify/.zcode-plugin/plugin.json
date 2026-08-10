@@ -17,5 +17,28 @@
     "storefront",
     "admin-api"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Shopify",
+    "shortDescription": "Build Shopify apps, themes, storefronts, and APIs",
+    "longDescription": "Shopify developer tools for searching Shopify documentation, generating and validating GraphQL, Liquid, Hydrogen, Functions, UI extension, and CLI workflows. Skill scripts send usage telemetry to shopify.dev by default; set OPT_OUT_INSTRUMENTATION=true to disable.",
+    "developerName": "Shopify",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://shopify.dev/",
+    "privacyPolicyURL": "https://www.shopify.com/legal/privacy",
+    "termsOfServiceURL": "https://www.shopify.com/legal/terms",
+    "defaultPrompt": [
+      "Build a Shopify app or theme with current docs.",
+      "Generate and validate a Shopify GraphQL operation.",
+      "Use Shopify CLI to run or troubleshoot a store workflow."
+    ],
+    "brandColor": "#008060",
+    "composerIcon": "./assets/logo-padded.svg",
+    "logo": "./assets/logo-padded.svg",
+    "screenshots": []
+  }
 }

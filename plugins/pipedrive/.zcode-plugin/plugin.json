@@ -9,5 +9,21 @@
   "repository": "https://github.com/openai/plugins",
   "license": "MIT",
   "keywords": [],
+  "interface": {
+    "displayName": "Pipedrive",
+    "shortDescription": "Connect to sync Pipedrive deals and contacts for use in Codex.",
+    "longDescription": "Connect to sync Pipedrive deals and contacts for use in Codex.",
+    "developerName": "OpenAI",
+    "category": "Business & Operations",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Find the latest deal status in Pipedrive"
+    ],
+    "screenshots": [],
+    "websiteURL": "https://www.pipedrive.com/",
+    "privacyPolicyURL": "https://www.pipedrive.com/en/privacy",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  },
   "homepage": "https://www.pipedrive.com/"
 }

@@ -25,5 +25,27 @@
   ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Build iOS Apps",
+    "shortDescription": "Build, refine, and debug iOS apps with App Intents, SwiftUI, and Xcode workflows",
+    "longDescription": "Use Build iOS Apps to design App Intents and App Shortcuts, build or refactor SwiftUI UI, render SwiftUI previews in the Codex in-app browser, adopt modern iOS patterns such as Liquid Glass, audit runtime performance, capture ETTrace profiles, investigate memory leaks, and debug apps on simulators with XcodeBuildMCP-backed workflows.",
+    "developerName": "OpenAI",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://openai.com/",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": [
+      "Build or debug an iOS app with SwiftUI, App Intents, and Simulator."
+    ],
+    "brandColor": "#0A84FF",
+    "composerIcon": "./assets/build-ios-apps-small.svg",
+    "logo": "./assets/app-icon.png",
+    "screenshots": []
+  },
   "agents": "./agents/"
 }

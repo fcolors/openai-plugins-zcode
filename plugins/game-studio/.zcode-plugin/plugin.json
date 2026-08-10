@@ -21,5 +21,26 @@
     "sprites",
     "playtest"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Game Studio",
+    "shortDescription": "Design, prototype, and ship browser games",
+    "longDescription": "Plan, prototype, and build browser games with guided workflows for gameplay systems, UI, asset pipelines, and playtesting across 2D and 3D projects.",
+    "developerName": "OpenAI",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://openai.com/",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": [
+      "Design a browser game and plan the core loop"
+    ],
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/game-studio.svg",
+    "logo": "./assets/app-icon.png",
+    "screenshots": []
+  }
 }

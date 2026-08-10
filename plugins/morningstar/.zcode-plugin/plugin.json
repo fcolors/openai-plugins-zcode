@@ -16,5 +16,29 @@
     "research",
     "screening"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Morningstar",
+    "shortDescription": "Screen, summarize, and compare funds with the Morningstar app.",
+    "longDescription": "Bundled Morningstar fund workflows for Codex: production screening with normalization, fund returns screening, single-fund deep summaries, and side-by-side comparison for 2 to 4 funds. The plugin links to the reviewed Morningstar ChatGPT app for authenticated data access and includes explicit data-availability disclosures.",
+    "developerName": "Morningstar",
+    "category": "Finance",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://www.morningstar.com",
+    "privacyPolicyURL": "https://www.morningstar.com/company/privacy-center/privacy-policy",
+    "termsOfServiceURL": "https://www.morningstar.com/company/terms-and-conditions",
+    "defaultPrompt": [
+      "Use fund-screener to find Gold-rated US large-cap ETFs.",
+      "Use fund-summarizer to analyze VFIAX.",
+      "Use fund-comparison to compare VFIAX, SWPPX, and FXAIX."
+    ],
+    "brandColor": "#E4572E",
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-icon.png",
+    "screenshots": []
+  }
 }

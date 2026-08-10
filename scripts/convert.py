@@ -21,6 +21,8 @@ SUPPORTED_FIELDS = {
     "agents",
     "dependencies",
     "userConfig",
+    # Preserve Codex UI metadata, including composerIcon and logo paths.
+    "interface",
 }
 
 

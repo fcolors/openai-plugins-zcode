@@ -18,5 +18,28 @@
     "quality",
     "budget"
   ],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Plugin Eval",
+    "shortDescription": "Start from chat, then evaluate or benchmark locally",
+    "longDescription": "Ask Codex to evaluate a plugin or skill, give you a full analysis of a named plugin such as game-studio, explain why it scored that way, show what to fix first, explain its token budget, measure real token usage, benchmark a plugin, or tell you what to run next. Plugin Eval keeps the path engineer-friendly: start with a natural chat request, then use the local `plugin-eval start` entrypoint or the routed workflow command it recommends.",
+    "developerName": "OpenAI",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://openai.com/",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": [
+      "Give me an analysis of the game studio plugin.",
+      "Evaluate this plugin.",
+      "Why did this score that way?"
+    ],
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/plugin-eval.svg",
+    "logo": "./assets/plugin-eval.svg",
+    "screenshots": []
+  }
 }
