@@ -1,8 +1,13 @@
 from pathlib import Path
 import json
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGINS_DIR = ROOT / "plugins"
+REPOSITORY_RAW_URL = (
+    "https://raw.githubusercontent.com/"
+    "fcolors/openai-plugins-zcode/main"
+)
 
 # ZCode 当前支持的 plugin.json 字段
 SUPPORTED_FIELDS = {
@@ -129,6 +134,22 @@ for plugin_dir in sorted(PLUGINS_DIR.iterdir()):
     for key in ("description", "version"):
         if key in zcode_manifest:
             entry[key] = zcode_manifest[key]
+
+    # ZCode reads marketplace card icons from plugins[].icon. It does not
+    # use Codex's interface.logo/composerIcon fields for marketplace cards.
+    interface = source_manifest.get("interface", {})
+    icon_path = interface.get("logo") or interface.get("composerIcon")
+    if isinstance(icon_path, str) and icon_path.startswith("./"):
+        relative_icon_path = (
+            Path("plugins")
+            / plugin_dir.name
+            / icon_path.removeprefix("./")
+        ).as_posix()
+        if (ROOT / relative_icon_path).is_file():
+            entry["icon"] = (
+                f"{REPOSITORY_RAW_URL}/"
+                f"{quote(relative_icon_path, safe='/')}"
+            )
 
     marketplace_plugins.append(entry)
 
