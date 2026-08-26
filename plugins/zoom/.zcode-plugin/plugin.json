@@ -54,5 +54,6 @@
     ]
   },
   "commands": "./commands/",
-  "agents": "./agents/"
+  "agents": "./agents/",
+  "mcpServers": "./.mcp.json"
 }

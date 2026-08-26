@@ -38,5 +38,6 @@
     ],
     "brandColor": "#3ECF8E",
     "logo": "./assets/logo.png"
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

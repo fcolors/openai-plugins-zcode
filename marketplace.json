@@ -700,6 +700,18 @@
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/dow-jones-factiva/assets/logo.png"
     },
     {
+      "name": "dropbox",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/dropbox",
+        "ref": "main"
+      },
+      "description": "The Dropbox plugin for ChatGPT connects your Dropbox files directly to ChatGPT. You can access files, save ChatGPT-generated content to Dropbox, and create sharing links without switching tools. Everything respects your existing Dropbox permissions, and ChatGPT only works with files you already have access to.",
+      "version": "5.0.1",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/dropbox/assets/logo.png"
+    },
+    {
       "name": "egnyte",
       "source": {
         "source": "github",

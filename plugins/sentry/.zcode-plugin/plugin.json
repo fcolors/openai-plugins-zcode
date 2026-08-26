@@ -36,5 +36,6 @@
     "logo": "./assets/sentry.png",
     "screenshots": [],
     "brandColor": "#362D59"
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

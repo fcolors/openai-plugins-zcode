@@ -65,5 +65,6 @@
     "logoDark": "./assets/logo-dark.png",
     "screenshots": []
   },
-  "agents": "./agents/"
+  "agents": "./agents/",
+  "mcpServers": "./.mcp.json"
 }

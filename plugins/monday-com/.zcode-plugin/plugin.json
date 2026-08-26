@@ -25,5 +25,6 @@
     "composerIcon": "./assets/app-icon.png",
     "logo": "./assets/app-icon.png",
     "developerName": "Monday.com"
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

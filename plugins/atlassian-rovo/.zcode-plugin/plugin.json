@@ -35,5 +35,6 @@
     "logo": "./assets/logo.png",
     "logoDark": "./assets/logo-dark.png"
   },
-  "agents": "./agents/"
+  "agents": "./agents/",
+  "mcpServers": "./.mcp.json"
 }

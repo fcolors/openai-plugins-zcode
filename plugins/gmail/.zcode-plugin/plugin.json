@@ -36,5 +36,6 @@
     "composerIcon": "./assets/gmail-small.svg",
     "logo": "./assets/logo.png",
     "screenshots": []
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

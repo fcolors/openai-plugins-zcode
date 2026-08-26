@@ -50,5 +50,6 @@
     "brandColor": "#000000"
   },
   "commands": "./commands/",
-  "agents": "./agents/"
+  "agents": "./agents/",
+  "mcpServers": "./.mcp.json"
 }

@@ -26,5 +26,6 @@
     "screenshots": [],
     "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png"
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

@@ -38,5 +38,6 @@
     ],
     "brandColor": "#0F9D58",
     "screenshots": []
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

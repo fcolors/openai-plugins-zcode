@@ -36,5 +36,6 @@
     "composerIcon": "./assets/app-icon.png",
     "logo": "./assets/app-icon.png",
     "screenshots": []
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }

@@ -40,5 +40,6 @@
     "composerIcon": "./assets/logo-padded.svg",
     "logo": "./assets/logo-padded.svg",
     "screenshots": []
-  }
+  },
+  "mcpServers": "./.mcp.json"
 }
