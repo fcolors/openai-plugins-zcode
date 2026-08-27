@@ -4,6 +4,17 @@
   "pluginRoot": "plugins",
   "plugins": [
     {
+      "name": "adobe",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/adobe",
+        "ref": "main"
+      },
+      "description": "Adobe unlocks more ways to create and get work done from the conversation. Previously available as Photoshop, the Adobe connector now brings creativity and productivity capabilities across Creative Cloud and Acrobat. Describe what you want to make or change, and Adobe can help turn ideas, images, videos, and documents into polished outputs — from editing photos and creating PDFs to designing social assets, resizing videos, searching Creative Cloud assets, and generating data-driven documents.\nKey capabilities:\n\n* Retouch portraits or edit photos in bulk: Drop in photos and describe the look you want — adjust color, lighting, and tone; remove distractions and generate new elements; apply Lightroom presets; remove backgrounds; blur, crop, resize, and expand images.\n* Design from template: Start from an Express template, update text and colors, and then animate for social media or convert to PDF.\n* Refine video for any platform: Upload a horizontal clip and ask to reformat it for YouTube Shorts, Instagram Reels, or any platform. You can also stitch clips into a single sequence.\n* Search and organize creative work: Describe what you're looking for and surface assets from your Creative Cloud library — by subject, style, mood, or content — without browsing folders.\n* Work with PDFs and documents: Create and convert polished PDFs and documents.\n* Create data-driven documents: Describe your output and provide your data — the connector turns raw data or content into formatted, shareable PDFs, including badges, cards, catalogs, and more.\n\nYou can get started as a guest, and sign in with your Adobe account for more capabilities and tools, Creative Cloud storage, and saved work across sessions.",
+      "version": "8.0.0"
+    },
+    {
       "name": "airtable",
       "source": {
         "source": "github",
@@ -12,7 +23,8 @@
         "ref": "main"
       },
       "description": "Bring operational data and context into the flow of your ChatGPT conversations. You can ask questions, create and update records, and analyze your data—all through conversation. Use the data in Airtable as input to the work you’re doing in ChatGPT, like building a landing page using content you’ve organized in Airtable. Make quick updates to Airtable without leaving the chat. Airtable for ChatGPT is ideal anytime you need quick access to structured internal data to inform your conversation.\n\nAirtable's App connects ChatGPT directly to your Airtable bases, so you can ask questions, create and update records, and analyze your data—all through conversation",
-      "version": "6.0.1"
+      "version": "6.0.1",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/airtable/assets/logo.png"
     },
     {
       "name": "atlassian-rovo",
@@ -95,7 +107,20 @@
         "ref": "main"
       },
       "description": "Bring your Canva design workflow into Codex and create, refine, and review designs through natural conversation.\nAvailable skills:\nResize for social media: Adapt a design for Facebook, Instagram, and LinkedIn in one step.\nBulk create: Generate multiple designs from spreadsheet data using a brand template.\nEdit designs: Update text, media, and formatting, or reposition and resize elements.\nGet design feedback: Receive structured feedback on visual hierarchy, layout, readability, consistency, and accessibility.\nImplement feedback: Review comment threads and apply clear, actionable changes.\nBrand check: Check colors, fonts, logo usage, and copy against your Brand Kit.\nOnce installed, describe what you want in plain language or invoke Canva directly with @Canva.\nTry prompts like:\n- @Canva, resize this design for social media.\n- @Canva, create designs from this spreadsheet using my brand template.\n- @Canva, update the headline in this design.\n- @Canva, review this design’s visual hierarchy and readability.\n- @Canva, implement the feedback in the comment threads.\n- @Canva, check this design against my Brand Kit.\n\nRequirements: Connect your Canva account to use the plugin. Bulk Create requires an eligible Canva Enterprise plan.\n\nWant to take a more hands-on approach? Instantly open your design in Canva’s powerful editor for the final touches.",
-      "version": "14.0.0"
+      "version": "14.0.0",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/canva/assets/logo.png"
+    },
+    {
+      "name": "chatcut",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/chatcut",
+        "ref": "main"
+      },
+      "description": "Install, open, and connect the signed ChatCut Desktop app from Codex.",
+      "version": "1.0.4",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/chatcut/.codex-plugin/assets/logo.png"
     },
     {
       "name": "circleci",
@@ -108,6 +133,18 @@
       "description": "Build, test, and deploy any application",
       "version": "1.0.4",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/circleci/assets/logo.png"
+    },
+    {
+      "name": "clickup",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/clickup",
+        "ref": "main"
+      },
+      "description": "Turn Codex into your ClickUp command center.",
+      "version": "1.0.3",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/clickup/assets/logo.png"
     },
     {
       "name": "cloudflare",
@@ -146,6 +183,41 @@
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/codex-security/assets/logo.png"
     },
     {
+      "name": "consensus",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/consensus",
+        "ref": "main"
+      },
+      "description": "Consensus is the go-to MCP for academic research. Connect directly to 220M+ peer-reviewed papers to search, synthesize, and build structured research outputs from within your conversation.\n\nRun literature reviews, build boolean search strategies, generate bibliographies, identify research gaps, and draft cited content — grounded in studies from PubMed, Semantic Scholar, and ArXiv. Pre-built workflows handle complex tasks in minutes: systematic reviews, curriculum reading lists, grant research with novelty analysis, and clinical evidence synthesis.\n\nBuilt for researchers, students, faculty, and clinicians across biomedical, social science, STEM, and all academic disciplines.",
+      "version": "4.0.0"
+    },
+    {
+      "name": "creative-production",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/creative-production",
+        "ref": "main"
+      },
+      "description": "Explore campaign ideas, concept images, mood boards, product placements, ad directions, listing images, social posts, and launch assets.",
+      "version": "0.1.25",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/creative-production/assets/logo.png"
+    },
+    {
+      "name": "data-analytics",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/data-analytics",
+        "ref": "main"
+      },
+      "description": "Answer product and business questions with data",
+      "version": "0.2.8",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/data-analytics/assets/datascience.png"
+    },
+    {
       "name": "datadog",
       "source": {
         "source": "github",
@@ -154,7 +226,8 @@
         "ref": "main"
       },
       "description": "Available for US1 customers only. Analyze, investigate, and act on your Datadog telemetry directly from ChatGPT using natural language. Ask questions about your production applications, identify, visualize, and remediate issues in your critical services. Run agentic loops to ensure you continue to maintain good observability and service management posture.",
-      "version": "10.0.0"
+      "version": "10.0.0",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/datadog/assets/logo.png"
     },
     {
       "name": "dropbox",
@@ -249,7 +322,7 @@
         "ref": "main"
       },
       "description": "Use Google Drive as the single entrypoint for Drive, Docs, Sheets, and Slides work.",
-      "version": "0.1.11",
+      "version": "0.1.15",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/google-drive/assets/logo.png"
     },
     {
@@ -263,6 +336,17 @@
       "description": "Granola MCP connects your meeting history to ChatGPT so your assistant can pull real context from past conversations while you work.\n\nUse MCP when you're already working on something bigger:\n\n-   Writing PRDs or proposals: Pull customer feedback, stakeholder input, and decisions from relevant meetings directly into your draft\n    \n-   Building presentations or reports: Combine insights from multiple conversations with your other research and data\n    \n-   Coding with context: Give your AI the project background, requirements, and technical decisions discussed in planning meetings\n    \n-   Strategic analysis: Merge meeting insights with documents, data, and other sources for comprehensive analysis\n    \nHow it works:\n\nYour AI assistant can search your Granola meetings by topic, person, company, or timeframe - then cite specific conversations in its responses. No more switching tabs to find \"what the customer said\" or \"when we decided that.\"\n\nThe difference:\n\nInstead of copy-pasting meeting notes into prompts, your AI pulls exactly what it needs from your meeting history automatically. You stay focused on the work, not the research or context.",
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/granola/assets/logo.png"
+    },
+    {
+      "name": "higgsfield",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/higgsfield",
+        "ref": "main"
+      },
+      "description": "Generate images and videos from a text prompt or your own photo. Turn a product shot into a video ad, restyle a photo, animate a still, or build a two-minute narrated explainer. Every major image and video model in one place.",
+      "version": "1.2.1"
     },
     {
       "name": "hyperframes",
@@ -301,6 +385,17 @@
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/linear/assets/logo.png"
     },
     {
+      "name": "lovable",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/lovable",
+        "ref": "main"
+      },
+      "description": "Build apps and websites",
+      "version": "2.0.1"
+    },
+    {
       "name": "magicpath",
       "source": {
         "source": "github",
@@ -333,7 +428,8 @@
         "ref": "main"
       },
       "description": "The monday.com AI Connector brings core platform capabilities directly to agents and AI assistants. It supports searching boards, creating and updating items and columns, assigning owners, setting timelines, and posting updates — enabling a wide range of work management and CRM use cases across teams and departments.\n\nTeams of people and agents use monday.com as a task tracker and project tracking hub: planning campaigns and events, tracking milestones, dependencies, and workload, managing approval workflows and request intake, and sharing status updates across projects and portfolios — as well as a CRM for managing leads, contacts, and deals.\n\nBeyond day-to-day work management, the connector lets agents answer questions using monday.com's official knowledge base, plan and build automations and multi-step workflows, run and save reusable code actions, and configure other monday.com agents .",
-      "version": "2.0.0"
+      "version": "2.0.0",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/monday-com/assets/logo.png"
     },
     {
       "name": "ngs-analysis",
@@ -456,6 +552,18 @@
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/product-design/assets/logo.png"
     },
     {
+      "name": "public-equity-investing",
+      "source": {
+        "source": "github",
+        "repo": "fcolors/openai-plugins-zcode",
+        "path": "plugins/public-equity-investing",
+        "ref": "main"
+      },
+      "description": "Public equity investing workflows for listed-company research, earnings analysis, valuation, model updates, long/short pitches, catalysts, thesis tracking, ETF/index and constituent diligence, sell-side research notes, risk sizing, hedging, dashboards, and investment memos.",
+      "version": "0.1.31",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/public-equity-investing/assets/logo.png"
+    },
+    {
       "name": "remotion",
       "source": {
         "source": "github",
@@ -500,7 +608,8 @@
         "ref": "main"
       },
       "description": "Shopify for ChatGPT makes store building and management as easy as having a conversation. Effortlessly connect your existing store or create a new online store by describing your business. Simply chat to add products, adjust inventory across locations, create discount codes, browse recent orders, view customer details, or pull analytics on your store’s performance.",
-      "version": "3.0.0"
+      "version": "3.0.0",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/shopify/assets/logo.png"
     },
     {
       "name": "slack",
@@ -512,7 +621,7 @@
       },
       "description": "Work with Slack using the configured Slack integration.",
       "version": "0.1.7",
-      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/slack/assets/app-icon.png"
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/slack/assets/logo.png"
     },
     {
       "name": "stripe",
@@ -523,7 +632,8 @@
         "ref": "main"
       },
       "description": "Develop your payments integration faster with the ability to create products, prices, and payment links directly in ChatGPT. Run your business from ChatGPT with the ability to retrieve and manage payments, subscriptions, invoices, refunds, disputes, and customers. Build and debug your payment integration quicker than ever by searching the Stripe documentation and getting integration recommendations without needing to leave ChatGPT.",
-      "version": "7.0.0"
+      "version": "7.0.0",
+      "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/stripe/assets/logo.png"
     },
     {
       "name": "supabase",
