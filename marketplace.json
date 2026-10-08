@@ -179,7 +179,7 @@
         "ref": "main"
       },
       "description": "Codex Security workflows for security scans, analysis, and investigation.",
-      "version": "0.1.24",
+      "version": "0.1.32",
       "icon": "https://raw.githubusercontent.com/fcolors/openai-plugins-zcode/main/plugins/codex-security/assets/logo.png"
     },
     {
